@@ -1,0 +1,64 @@
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+#section-kmt .kmt-form-content .kmt-form-addon > div .input.kmt-location {
+  max-width: 1000px !important;
+}
+#contact_map {
+  height: 376px;
+}
+ul.gallery {
+  margin-left: -20px;
+}
+ul.gallery .gallery-item {
+  padding-left: 20px;
+}
+#top-row .navigation ul.sf-menu > li > a,
+#top-row .navigation ul.sf-menu > li > span {
+  width: 95px;
+}
+.social {
+  width: 940px;
+}
+.flickr .gallery-flickr ul li {
+  width: 63px;
+}
+.cooperation {
+  font-size: 14px;
+  margin-bottom: 54px;
+}
+.cooperation .video_outer {
+  margin-left: 20px;
+}
+.additional_services {
+  padding-left: 20px;
+}
+.page-blog,
+.page-item__blog,
+.page-archive {
+  padding-right: 20px;
+}
