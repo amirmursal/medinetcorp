@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "start": "lite-server -c bs-config.js"
+    "start": "node server.js",
+    "dev": "lite-server -c bs-config.js"
   },
   "dependencies": {
     "express": "^4.16.2",

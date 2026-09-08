@@ -4,144 +4,144 @@
 
 "@types/color-name@^1.1.1":
   version "1.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/@types/color-name/-/color-name-1.1.1.tgz"
-  integrity sha512-rr+OQyAjxze7GgWrSaJwydHStIhHq2lvY3BOC2Mj7KnzI7XK0Uw1TOOdI9lDoajEbSWLiYgoo4f1R51erQfhPQ== sha1-HBJhu+qhCoBVu8XYq4S3sq/IRqA=
+  resolved "https://registry.npmjs.org/@types/color-name/-/color-name-1.1.1.tgz"
+  integrity "sha1-HBJhu+qhCoBVu8XYq4S3sq/IRqA= sha512-rr+OQyAjxze7GgWrSaJwydHStIhHq2lvY3BOC2Mj7KnzI7XK0Uw1TOOdI9lDoajEbSWLiYgoo4f1R51erQfhPQ=="
 
 accepts@~1.3.4, accepts@~1.3.7:
   version "1.3.7"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/accepts/-/accepts-1.3.7.tgz"
-  integrity sha512-Il80Qs2WjYlJIBNzNkK6KYqlVMTbZLXgHx2oT0pU/fjRHyEp+PEfEPY0R3WCwAGVOtauxh1hOxNgIf5bv7dQpA== sha1-UxvHJlF6OytB+FACHGzBXqq1B80=
+  resolved "https://registry.npmjs.org/accepts/-/accepts-1.3.7.tgz"
+  integrity "sha1-UxvHJlF6OytB+FACHGzBXqq1B80= sha512-Il80Qs2WjYlJIBNzNkK6KYqlVMTbZLXgHx2oT0pU/fjRHyEp+PEfEPY0R3WCwAGVOtauxh1hOxNgIf5bv7dQpA=="
   dependencies:
     mime-types "~2.1.24"
     negotiator "0.6.2"
 
 after@0.8.2:
   version "0.8.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/after/-/after-0.8.2.tgz"
+  resolved "https://registry.npmjs.org/after/-/after-0.8.2.tgz"
   integrity sha1-/ts5T58OAqqXaOcCvaI7UF+ufh8=
 
 ansi-regex@^2.0.0:
   version "2.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ansi-regex/-/ansi-regex-2.1.1.tgz"
+  resolved "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.1.1.tgz"
   integrity sha1-w7M6te42DYbg5ijwRorn7yfWVN8=
 
 ansi-regex@^4.1.0:
   version "4.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ansi-regex/-/ansi-regex-4.1.0.tgz"
-  integrity sha512-1apePfXM1UOSqw0o9IiFAovVz9M5S1Dg+4TrDwfMewQ6p/rmMueb7tWZjQ1rx4Loy1ArBggoqGpfqqdI4rondg== sha1-i5+PCM8ay4Q3Vqg5yox+MWjFGZc=
+  resolved "https://registry.npmjs.org/ansi-regex/-/ansi-regex-4.1.0.tgz"
+  integrity "sha1-i5+PCM8ay4Q3Vqg5yox+MWjFGZc= sha512-1apePfXM1UOSqw0o9IiFAovVz9M5S1Dg+4TrDwfMewQ6p/rmMueb7tWZjQ1rx4Loy1ArBggoqGpfqqdI4rondg=="
 
 ansi-regex@^5.0.0:
   version "5.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ansi-regex/-/ansi-regex-5.0.0.tgz"
-  integrity sha512-bY6fj56OUQ0hU1KjFNDQuJFezqKdrAyFdIevADiqrWHwSlbmBNMHp5ak2f40Pm8JTFyM2mqxkG6ngkHO11f/lg== sha1-OIU59VF5vzkznIGvMKZU1p+Hy3U=
+  resolved "https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.0.tgz"
+  integrity "sha1-OIU59VF5vzkznIGvMKZU1p+Hy3U= sha512-bY6fj56OUQ0hU1KjFNDQuJFezqKdrAyFdIevADiqrWHwSlbmBNMHp5ak2f40Pm8JTFyM2mqxkG6ngkHO11f/lg=="
 
 ansi-styles@^2.2.1:
   version "2.2.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ansi-styles/-/ansi-styles-2.2.1.tgz"
+  resolved "https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz"
   integrity sha1-tDLdM1i2NM914eRmQ2gkBTPB3b4=
 
 ansi-styles@^3.2.0:
   version "3.2.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ansi-styles/-/ansi-styles-3.2.1.tgz"
-  integrity sha512-VT0ZI6kZRdTh8YyJw3SMbYm/u+NqfsAxEpWO0Pf9sq8/e94WxxOpPKx9FR1FlyCtOVDNOQ+8ntlqFxiRc+r5qA== sha1-QfuyAkPlCxK+DwS43tvwdSDOhB0=
+  resolved "https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz"
+  integrity "sha1-QfuyAkPlCxK+DwS43tvwdSDOhB0= sha512-VT0ZI6kZRdTh8YyJw3SMbYm/u+NqfsAxEpWO0Pf9sq8/e94WxxOpPKx9FR1FlyCtOVDNOQ+8ntlqFxiRc+r5qA=="
   dependencies:
     color-convert "^1.9.0"
 
 ansi-styles@^4.0.0:
   version "4.2.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ansi-styles/-/ansi-styles-4.2.1.tgz"
-  integrity sha512-9VGjrMsG1vePxcSweQsN20KY/c4zN0h9fLjqAbwbPfahM3t+NL+M9HC8xeXG2I8pX5NoamTGNuomEUFI7fcUjA== sha1-kK51xCTQCNJiTFvynq0xd+v881k=
+  resolved "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.2.1.tgz"
+  integrity "sha1-kK51xCTQCNJiTFvynq0xd+v881k= sha512-9VGjrMsG1vePxcSweQsN20KY/c4zN0h9fLjqAbwbPfahM3t+NL+M9HC8xeXG2I8pX5NoamTGNuomEUFI7fcUjA=="
   dependencies:
     "@types/color-name" "^1.1.1"
     color-convert "^2.0.1"
 
 anymatch@~3.1.1:
   version "3.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/anymatch/-/anymatch-3.1.1.tgz"
-  integrity sha512-mM8522psRCqzV+6LhomX5wgp25YVibjh8Wj23I5RPkPppSVSjyKD2A2mBJmWGa+KN7f2D6LNh9jkBCeyLktzjg== sha1-xV7PAhheJGklk5kxDBc84xIzsUI=
+  resolved "https://registry.npmjs.org/anymatch/-/anymatch-3.1.1.tgz"
+  integrity "sha1-xV7PAhheJGklk5kxDBc84xIzsUI= sha512-mM8522psRCqzV+6LhomX5wgp25YVibjh8Wj23I5RPkPppSVSjyKD2A2mBJmWGa+KN7f2D6LNh9jkBCeyLktzjg=="
   dependencies:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
 array-flatten@1.1.1:
   version "1.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/array-flatten/-/array-flatten-1.1.1.tgz"
+  resolved "https://registry.npmjs.org/array-flatten/-/array-flatten-1.1.1.tgz"
   integrity sha1-ml9pkFGx5wczKPKgCJaLZOopVdI=
 
 arraybuffer.slice@~0.0.7:
   version "0.0.7"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/arraybuffer.slice/-/arraybuffer.slice-0.0.7.tgz"
-  integrity sha512-wGUIVQXuehL5TCqQun8OW81jGzAWycqzFF8lFp+GOM5BXLYj3bKNsYC4daB7n6XjCqxQA/qgTJ+8ANR3acjrog== sha1-O7xCdd1YTMGxCAm4nU6LY6aednU=
+  resolved "https://registry.npmjs.org/arraybuffer.slice/-/arraybuffer.slice-0.0.7.tgz"
+  integrity "sha1-O7xCdd1YTMGxCAm4nU6LY6aednU= sha512-wGUIVQXuehL5TCqQun8OW81jGzAWycqzFF8lFp+GOM5BXLYj3bKNsYC4daB7n6XjCqxQA/qgTJ+8ANR3acjrog=="
 
 async-each-series@0.1.1:
   version "0.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/async-each-series/-/async-each-series-0.1.1.tgz"
+  resolved "https://registry.npmjs.org/async-each-series/-/async-each-series-0.1.1.tgz"
   integrity sha1-dhfBkXQB/Yykooqtzj266Yr+tDI=
 
 async-limiter@~1.0.0:
   version "1.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/async-limiter/-/async-limiter-1.0.1.tgz"
-  integrity sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ== sha1-3TeelPDbgxCwgpH51kwyCXZmF/0=
+  resolved "https://registry.npmjs.org/async-limiter/-/async-limiter-1.0.1.tgz"
+  integrity "sha1-3TeelPDbgxCwgpH51kwyCXZmF/0= sha512-csOlWGAcRFJaI6m+F2WKdnMKr4HhdhFVBk0H/QbJFMCr+uO2kwohwXQPxw/9OCxp05r5ghVBFSyioixx3gfkNQ=="
 
 async@1.5.2:
   version "1.5.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/async/-/async-1.5.2.tgz"
+  resolved "https://registry.npmjs.org/async/-/async-1.5.2.tgz"
   integrity sha1-7GphrlZIDAw8skHJVhjiCJL5Zyo=
 
 axios@0.19.0:
   version "0.19.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/axios/-/axios-0.19.0.tgz"
-  integrity sha512-1uvKqKQta3KBxIz14F2v06AEHZ/dIoeKfbTRkK1E5oqjDnuEerLmYTgJB5AiQZHJcljpg1TuRzdjDR06qNk0DQ== sha1-jgm/89kSLhM/e4EByPvdAO09Krg=
+  resolved "https://registry.npmjs.org/axios/-/axios-0.19.0.tgz"
+  integrity "sha1-jgm/89kSLhM/e4EByPvdAO09Krg= sha512-1uvKqKQta3KBxIz14F2v06AEHZ/dIoeKfbTRkK1E5oqjDnuEerLmYTgJB5AiQZHJcljpg1TuRzdjDR06qNk0DQ=="
   dependencies:
     follow-redirects "1.5.10"
     is-buffer "^2.0.2"
 
 backo2@1.0.2:
   version "1.0.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/backo2/-/backo2-1.0.2.tgz"
+  resolved "https://registry.npmjs.org/backo2/-/backo2-1.0.2.tgz"
   integrity sha1-MasayLEpNjRj41s+u2n038+6eUc=
 
 balanced-match@^1.0.0:
   version "1.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/balanced-match/-/balanced-match-1.0.0.tgz"
+  resolved "https://registry.npmjs.org/balanced-match/-/balanced-match-1.0.0.tgz"
   integrity sha1-ibTRmasr7kneFk6gK4nORi1xt2c=
 
 base64-arraybuffer@0.1.5:
   version "0.1.5"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/base64-arraybuffer/-/base64-arraybuffer-0.1.5.tgz"
+  resolved "https://registry.npmjs.org/base64-arraybuffer/-/base64-arraybuffer-0.1.5.tgz"
   integrity sha1-c5JncZI7Whl0etZmqlzUv5xunOg=
 
 base64id@1.0.0:
   version "1.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/base64id/-/base64id-1.0.0.tgz"
+  resolved "https://registry.npmjs.org/base64id/-/base64id-1.0.0.tgz"
   integrity sha1-R2iMuZu2gE8OBtPnY7HDLlfY5rY=
 
 batch@0.6.1:
   version "0.6.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/batch/-/batch-0.6.1.tgz"
+  resolved "https://registry.npmjs.org/batch/-/batch-0.6.1.tgz"
   integrity sha1-3DQxT05nkxgJP8dgJyUl+UvyXBY=
 
 better-assert@~1.0.0:
   version "1.0.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/better-assert/-/better-assert-1.0.2.tgz"
+  resolved "https://registry.npmjs.org/better-assert/-/better-assert-1.0.2.tgz"
   integrity sha1-QIZrnhueC1W0gYlDEeaPr/rrxSI=
   dependencies:
     callsite "1.0.0"
 
 binary-extensions@^2.0.0:
   version "2.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/binary-extensions/-/binary-extensions-2.1.0.tgz"
-  integrity sha512-1Yj8h9Q+QDF5FzhMs/c9+6UntbD5MkRfRwac8DoEm9ZfUBZ7tZ55YcGVAzEe4bXsdQHEk+s9S5wsOKVdZrw0tQ== sha1-MPpAyef+B9vIlWeM0ocCTeokHdk=
+  resolved "https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.1.0.tgz"
+  integrity "sha1-MPpAyef+B9vIlWeM0ocCTeokHdk= sha512-1Yj8h9Q+QDF5FzhMs/c9+6UntbD5MkRfRwac8DoEm9ZfUBZ7tZ55YcGVAzEe4bXsdQHEk+s9S5wsOKVdZrw0tQ=="
 
 blob@0.0.5:
   version "0.0.5"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/blob/-/blob-0.0.5.tgz"
-  integrity sha512-gaqbzQPqOoamawKg0LGVd7SzLgXS+JH61oWprSLH+P+abTczqJbhTR8CmJ2u9/bUYNmHTGJx/UEmn6doAvvuig== sha1-1oDu7yX4zZGtUz9bAe7UjmTK9oM=
+  resolved "https://registry.npmjs.org/blob/-/blob-0.0.5.tgz"
+  integrity "sha1-1oDu7yX4zZGtUz9bAe7UjmTK9oM= sha512-gaqbzQPqOoamawKg0LGVd7SzLgXS+JH61oWprSLH+P+abTczqJbhTR8CmJ2u9/bUYNmHTGJx/UEmn6doAvvuig=="
 
 body-parser@1.19.0:
   version "1.19.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/body-parser/-/body-parser-1.19.0.tgz"
-  integrity sha512-dhEPs72UPbDnAQJ9ZKMNTP6ptJaionhP5cBb541nXPlW60Jepo9RV/a4fX4XWW9CuFNK22krhrj1+rgzifNCsw== sha1-lrJwnlfJxOCab9Zqj9l5hE9p8Io=
+  resolved "https://registry.npmjs.org/body-parser/-/body-parser-1.19.0.tgz"
+  integrity "sha1-lrJwnlfJxOCab9Zqj9l5hE9p8Io= sha512-dhEPs72UPbDnAQJ9ZKMNTP6ptJaionhP5cBb541nXPlW60Jepo9RV/a4fX4XWW9CuFNK22krhrj1+rgzifNCsw=="
   dependencies:
     bytes "3.1.0"
     content-type "~1.0.4"
@@ -156,23 +156,23 @@ body-parser@1.19.0:
 
 brace-expansion@^1.1.7:
   version "1.1.11"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/brace-expansion/-/brace-expansion-1.1.11.tgz"
-  integrity sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA== sha1-PH/L9SnYcibz0vUrlm/1Jx60Qd0=
+  resolved "https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.11.tgz"
+  integrity "sha1-PH/L9SnYcibz0vUrlm/1Jx60Qd0= sha512-iCuPHDFgrHX7H2vEI/5xpz07zSHB00TpugqhmYtVmMO6518mCuRMoOYFldEBl0g187ufozdaHgWKcYFb61qGiA=="
   dependencies:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
 
 braces@^3.0.1, braces@~3.0.2:
   version "3.0.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/braces/-/braces-3.0.2.tgz"
-  integrity sha512-b8um+L1RzM3WDSzvhm6gIz1yfTbBt6YTlcEKAvsmqCZZFw46z626lVj9j1yEPW33H5H+lBQpZMP1k8l+78Ha0A== sha1-NFThpGLujVmeI23zNs2epPiv4Qc=
+  resolved "https://registry.npmjs.org/braces/-/braces-3.0.2.tgz"
+  integrity "sha1-NFThpGLujVmeI23zNs2epPiv4Qc= sha512-b8um+L1RzM3WDSzvhm6gIz1yfTbBt6YTlcEKAvsmqCZZFw46z626lVj9j1yEPW33H5H+lBQpZMP1k8l+78Ha0A=="
   dependencies:
     fill-range "^7.0.1"
 
 browser-sync-client@^2.26.12:
   version "2.26.12"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/browser-sync-client/-/browser-sync-client-2.26.12.tgz"
-  integrity sha512-bEBDRkufKxrIfjOsIB1FN9itUEXr2oLtz1AySgSSr80K2AWzmtoYnxtVASx/i40qFrSdeI31pNvdCjHivihLVA== sha1-tsgTNcap8aebyhlRQ4gA0+fxcMg=
+  resolved "https://registry.npmjs.org/browser-sync-client/-/browser-sync-client-2.26.12.tgz"
+  integrity "sha1-tsgTNcap8aebyhlRQ4gA0+fxcMg= sha512-bEBDRkufKxrIfjOsIB1FN9itUEXr2oLtz1AySgSSr80K2AWzmtoYnxtVASx/i40qFrSdeI31pNvdCjHivihLVA=="
   dependencies:
     etag "1.8.1"
     fresh "0.5.2"
@@ -181,8 +181,8 @@ browser-sync-client@^2.26.12:
 
 browser-sync-ui@^2.26.12:
   version "2.26.12"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/browser-sync-ui/-/browser-sync-ui-2.26.12.tgz"
-  integrity sha512-PkAJNf/TfCFTCkQUfXplR2Kp/+/lbCWFO9lrgLZsmxIhvMLx2pYZFBbTBIaem8qjXhld9ZcESUC8EdU5VWFJgQ== sha1-ajCWRNOuD+dDkGVYqUyvb9EYcZ8=
+  resolved "https://registry.npmjs.org/browser-sync-ui/-/browser-sync-ui-2.26.12.tgz"
+  integrity "sha1-ajCWRNOuD+dDkGVYqUyvb9EYcZ8= sha512-PkAJNf/TfCFTCkQUfXplR2Kp/+/lbCWFO9lrgLZsmxIhvMLx2pYZFBbTBIaem8qjXhld9ZcESUC8EdU5VWFJgQ=="
   dependencies:
     async-each-series "0.1.1"
     connect-history-api-fallback "^1"
@@ -193,8 +193,8 @@ browser-sync-ui@^2.26.12:
 
 browser-sync@^2.26.7:
   version "2.26.12"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/browser-sync/-/browser-sync-2.26.12.tgz"
-  integrity sha512-1GjAe+EpZQJgtKhWsxklEjpaMV0DrRylpHRvZWgOphDQt+bfLZjfynl/j1WjSFIx8ozj9j78g6Yk4TqD3gKaMA== sha1-JyTfcC74iA5xHBv2Kv18k6OoBGI=
+  resolved "https://registry.npmjs.org/browser-sync/-/browser-sync-2.26.12.tgz"
+  integrity "sha1-JyTfcC74iA5xHBv2Kv18k6OoBGI= sha512-1GjAe+EpZQJgtKhWsxklEjpaMV0DrRylpHRvZWgOphDQt+bfLZjfynl/j1WjSFIx8ozj9j78g6Yk4TqD3gKaMA=="
   dependencies:
     browser-sync-client "^2.26.12"
     browser-sync-ui "^2.26.12"
@@ -229,32 +229,32 @@ browser-sync@^2.26.7:
 
 bs-recipes@1.3.4:
   version "1.3.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/bs-recipes/-/bs-recipes-1.3.4.tgz"
+  resolved "https://registry.npmjs.org/bs-recipes/-/bs-recipes-1.3.4.tgz"
   integrity sha1-DS1NSKcYyMBEdp/cT4lZLci2lYU=
 
 bs-snippet-injector@^2.0.1:
   version "2.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/bs-snippet-injector/-/bs-snippet-injector-2.0.1.tgz"
+  resolved "https://registry.npmjs.org/bs-snippet-injector/-/bs-snippet-injector-2.0.1.tgz"
   integrity sha1-YbU5PxH1JVntEgaTEANDtu2wTdU=
 
 bytes@3.1.0:
   version "3.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/bytes/-/bytes-3.1.0.tgz"
-  integrity sha512-zauLjrfCG+xvoyaqLoV8bLVXXNGC4JqlxFCutSDWA6fJrTo2ZuvLYTqZ7aHBLZSMOopbzwv8f+wZcVzfVTI2Dg== sha1-9s95M6Ng4FiPqf3oVlHNx/gF0fY=
+  resolved "https://registry.npmjs.org/bytes/-/bytes-3.1.0.tgz"
+  integrity "sha1-9s95M6Ng4FiPqf3oVlHNx/gF0fY= sha512-zauLjrfCG+xvoyaqLoV8bLVXXNGC4JqlxFCutSDWA6fJrTo2ZuvLYTqZ7aHBLZSMOopbzwv8f+wZcVzfVTI2Dg=="
 
 callsite@1.0.0:
   version "1.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/callsite/-/callsite-1.0.0.tgz"
+  resolved "https://registry.npmjs.org/callsite/-/callsite-1.0.0.tgz"
   integrity sha1-KAOY5dZkvXQDi28JBRU+borxvCA=
 
 camelcase@^5.0.0:
   version "5.3.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/camelcase/-/camelcase-5.3.1.tgz"
-  integrity sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg== sha1-48mzFWnhBoEd8kL3FXJaH0xJQyA=
+  resolved "https://registry.npmjs.org/camelcase/-/camelcase-5.3.1.tgz"
+  integrity "sha1-48mzFWnhBoEd8kL3FXJaH0xJQyA= sha512-L28STB170nwWS63UjtlEOE3dldQApaJXZkOI1uMFfzf3rRuPegHaHesyee+YxQ+W6SvRDQV6UrdOdRiR153wJg=="
 
 chalk@^1.1.1:
   version "1.1.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/chalk/-/chalk-1.1.3.tgz"
+  resolved "https://registry.npmjs.org/chalk/-/chalk-1.1.3.tgz"
   integrity sha1-qBFcVeSnAv5NFQq9OHKCKn4J/Jg=
   dependencies:
     ansi-styles "^2.2.1"
@@ -265,8 +265,8 @@ chalk@^1.1.1:
 
 chokidar@^3.4.1:
   version "3.4.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/chokidar/-/chokidar-3.4.2.tgz"
-  integrity sha512-IZHaDeBeI+sZJRX7lGcXsdzgvZqKv6sECqsbErJA4mHWfpRrD8B97kSFN4cQz6nGBGiuFia1MKR4d6c1o8Cv7A== sha1-ONyOZY3sOAl0HrPve7Ckf+QkIy0=
+  resolved "https://registry.npmjs.org/chokidar/-/chokidar-3.4.2.tgz"
+  integrity "sha1-ONyOZY3sOAl0HrPve7Ckf+QkIy0= sha512-IZHaDeBeI+sZJRX7lGcXsdzgvZqKv6sECqsbErJA4mHWfpRrD8B97kSFN4cQz6nGBGiuFia1MKR4d6c1o8Cv7A=="
   dependencies:
     anymatch "~3.1.1"
     braces "~3.0.2"
@@ -280,8 +280,8 @@ chokidar@^3.4.1:
 
 cliui@^5.0.0:
   version "5.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/cliui/-/cliui-5.0.0.tgz"
-  integrity sha512-PYeGSEmmHM6zvoef2w8TPzlrnNpXIjTipYK780YswmIP9vjxmd6Y2a3CB2Ks6/AU8NHjZugXvo8w3oWM2qnwXA== sha1-3u/P2y6AB4SqNPRvoI4GhRx7u8U=
+  resolved "https://registry.npmjs.org/cliui/-/cliui-5.0.0.tgz"
+  integrity "sha1-3u/P2y6AB4SqNPRvoI4GhRx7u8U= sha512-PYeGSEmmHM6zvoef2w8TPzlrnNpXIjTipYK780YswmIP9vjxmd6Y2a3CB2Ks6/AU8NHjZugXvo8w3oWM2qnwXA=="
   dependencies:
     string-width "^3.1.0"
     strip-ansi "^5.2.0"
@@ -289,8 +289,8 @@ cliui@^5.0.0:
 
 cliui@^6.0.0:
   version "6.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/cliui/-/cliui-6.0.0.tgz"
-  integrity sha512-t6wbgtoCXvAzst7QgXxJYqPt0usEfbgQdftEPbLL/cvv6HPE5VgvqCuAIDR0NgU52ds6rFwqrgakNLrHEjCbrQ== sha1-UR1wLAxOQcoVbX0OlgIfI+EyJbE=
+  resolved "https://registry.npmjs.org/cliui/-/cliui-6.0.0.tgz"
+  integrity "sha1-UR1wLAxOQcoVbX0OlgIfI+EyJbE= sha512-t6wbgtoCXvAzst7QgXxJYqPt0usEfbgQdftEPbLL/cvv6HPE5VgvqCuAIDR0NgU52ds6rFwqrgakNLrHEjCbrQ=="
   dependencies:
     string-width "^4.2.0"
     strip-ansi "^6.0.0"
@@ -298,73 +298,73 @@ cliui@^6.0.0:
 
 color-convert@^1.9.0:
   version "1.9.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/color-convert/-/color-convert-1.9.3.tgz"
-  integrity sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg== sha1-u3GFBpDh8TZWfeYp0tVHHe2kweg=
+  resolved "https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz"
+  integrity "sha1-u3GFBpDh8TZWfeYp0tVHHe2kweg= sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg=="
   dependencies:
     color-name "1.1.3"
 
 color-convert@^2.0.1:
   version "2.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/color-convert/-/color-convert-2.0.1.tgz"
-  integrity sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ== sha1-ctOmjVmMm9s68q0ehPIdiWq9TeM=
+  resolved "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz"
+  integrity "sha1-ctOmjVmMm9s68q0ehPIdiWq9TeM= sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ=="
   dependencies:
     color-name "~1.1.4"
 
-color-name@~1.1.4:
-  version "1.1.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/color-name/-/color-name-1.1.4.tgz"
-  integrity sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA== sha1-wqCah6y95pVD3m9j+jmVyCbFNqI=
-
 color-name@1.1.3:
   version "1.1.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/color-name/-/color-name-1.1.3.tgz"
+  resolved "https://registry.npmjs.org/color-name/-/color-name-1.1.3.tgz"
   integrity sha1-p9BVi9icQveV3UIyj3QIMcpTvCU=
+
+color-name@~1.1.4:
+  version "1.1.4"
+  resolved "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz"
+  integrity "sha1-wqCah6y95pVD3m9j+jmVyCbFNqI= sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA=="
 
 commander@^2.2.0:
   version "2.20.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/commander/-/commander-2.20.3.tgz"
-  integrity sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ== sha1-/UhehMA+tIgcIHIrpIA16FMa6zM=
+  resolved "https://registry.npmjs.org/commander/-/commander-2.20.3.tgz"
+  integrity "sha1-/UhehMA+tIgcIHIrpIA16FMa6zM= sha512-GpVkmM8vF2vQUkj2LvZmD35JxeJOLCwJ9cUkugyk2nuhbv3+mJvpLYYt+0+USMxE+oj+ey/lJEnhZw75x/OMcQ=="
 
 component-bind@1.0.0:
   version "1.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/component-bind/-/component-bind-1.0.0.tgz"
+  resolved "https://registry.npmjs.org/component-bind/-/component-bind-1.0.0.tgz"
   integrity sha1-AMYIq33Nk4l8AAllGx06jh5zu9E=
-
-component-emitter@~1.3.0:
-  version "1.3.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/component-emitter/-/component-emitter-1.3.0.tgz"
-  integrity sha512-Rd3se6QB+sO1TwqZjscQrurpEPIfO0/yYnSin6Q/rD3mOutHvUrCAhJub3r90uNb+SESBuE0QYoB90YdfatsRg== sha1-FuQHD7qK4ptnnyIVhT7hgasuq8A=
 
 component-emitter@1.2.1:
   version "1.2.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/component-emitter/-/component-emitter-1.2.1.tgz"
+  resolved "https://registry.npmjs.org/component-emitter/-/component-emitter-1.2.1.tgz"
   integrity sha1-E3kY1teCg/ffemt8WmPhQOaUJeY=
+
+component-emitter@~1.3.0:
+  version "1.3.0"
+  resolved "https://registry.npmjs.org/component-emitter/-/component-emitter-1.3.0.tgz"
+  integrity "sha1-FuQHD7qK4ptnnyIVhT7hgasuq8A= sha512-Rd3se6QB+sO1TwqZjscQrurpEPIfO0/yYnSin6Q/rD3mOutHvUrCAhJub3r90uNb+SESBuE0QYoB90YdfatsRg=="
 
 component-inherit@0.0.3:
   version "0.0.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/component-inherit/-/component-inherit-0.0.3.tgz"
+  resolved "https://registry.npmjs.org/component-inherit/-/component-inherit-0.0.3.tgz"
   integrity sha1-ZF/ErfWLcrZJ1crmUTVhnbJv8UM=
 
 concat-map@0.0.1:
   version "0.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/concat-map/-/concat-map-0.0.1.tgz"
+  resolved "https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
 connect-history-api-fallback@^1, connect-history-api-fallback@^1.2.0:
   version "1.6.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/connect-history-api-fallback/-/connect-history-api-fallback-1.6.0.tgz"
-  integrity sha512-e54B99q/OUoH64zYYRf3HBP5z24G38h5D3qXu23JGRoigpX5Ss4r9ZnDk3g0Z8uQC2x2lPaJ+UlWBc1ZWBWdLg== sha1-izIIk1kwjRERFdgcrT/Oq4iPl7w=
+  resolved "https://registry.npmjs.org/connect-history-api-fallback/-/connect-history-api-fallback-1.6.0.tgz"
+  integrity "sha1-izIIk1kwjRERFdgcrT/Oq4iPl7w= sha512-e54B99q/OUoH64zYYRf3HBP5z24G38h5D3qXu23JGRoigpX5Ss4r9ZnDk3g0Z8uQC2x2lPaJ+UlWBc1ZWBWdLg=="
 
 connect-logger@0.0.1:
   version "0.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/connect-logger/-/connect-logger-0.0.1.tgz"
+  resolved "https://registry.npmjs.org/connect-logger/-/connect-logger-0.0.1.tgz"
   integrity sha1-TZmZeKHSC7RgjnzUNNdBZSJVF0s=
   dependencies:
     moment "*"
 
 connect@3.6.6:
   version "3.6.6"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/connect/-/connect-3.6.6.tgz"
+  resolved "https://registry.npmjs.org/connect/-/connect-3.6.6.tgz"
   integrity sha1-Ce/2xVr3I24TcTWnJXSFi2eG9SQ=
   dependencies:
     debug "2.6.9"
@@ -374,124 +374,110 @@ connect@3.6.6:
 
 content-disposition@0.5.3:
   version "0.5.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/content-disposition/-/content-disposition-0.5.3.tgz"
-  integrity sha512-ExO0774ikEObIAEV9kDo50o+79VCUdEB6n6lzKgGwupcVeRlhrj3qGAfwq8G6uBJjkqLrhT0qEYFcWng8z1z0g== sha1-4TDK9+cnkIfFYWwgB9BIVpiYT70=
+  resolved "https://registry.npmjs.org/content-disposition/-/content-disposition-0.5.3.tgz"
+  integrity "sha1-4TDK9+cnkIfFYWwgB9BIVpiYT70= sha512-ExO0774ikEObIAEV9kDo50o+79VCUdEB6n6lzKgGwupcVeRlhrj3qGAfwq8G6uBJjkqLrhT0qEYFcWng8z1z0g=="
   dependencies:
     safe-buffer "5.1.2"
 
 content-type@~1.0.4:
   version "1.0.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/content-type/-/content-type-1.0.4.tgz"
-  integrity sha512-hIP3EEPs8tB9AT1L+NUqtwOAps4mk2Zob89MWXMHjHWg9milF/j4osnnQLXBCBFBk/tvIG/tUc9mOUJiPBhPXA== sha1-4TjMdeBAxyexlm/l5fjJruJW/js=
+  resolved "https://registry.npmjs.org/content-type/-/content-type-1.0.4.tgz"
+  integrity "sha1-4TjMdeBAxyexlm/l5fjJruJW/js= sha512-hIP3EEPs8tB9AT1L+NUqtwOAps4mk2Zob89MWXMHjHWg9milF/j4osnnQLXBCBFBk/tvIG/tUc9mOUJiPBhPXA=="
 
 cookie-signature@1.0.6:
   version "1.0.6"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/cookie-signature/-/cookie-signature-1.0.6.tgz"
+  resolved "https://registry.npmjs.org/cookie-signature/-/cookie-signature-1.0.6.tgz"
   integrity sha1-4wOogrNCzD7oylE6eZmXNNqzriw=
 
 cookie@0.3.1:
   version "0.3.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/cookie/-/cookie-0.3.1.tgz"
+  resolved "https://registry.npmjs.org/cookie/-/cookie-0.3.1.tgz"
   integrity sha1-5+Ch+e9DtMi6klxcWpboBtFoc7s=
 
 cookie@0.4.0:
   version "0.4.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/cookie/-/cookie-0.4.0.tgz"
-  integrity sha512-+Hp8fLp57wnUSt0tY0tHEXh4voZRDnoIrZPqlo3DPiI4y9lwg/jqx+1Om94/W6ZaPDOUbnjOt/99w66zk+l1Xg== sha1-vrQ35wIrO21JAZ0IhmUwPr6cFLo=
+  resolved "https://registry.npmjs.org/cookie/-/cookie-0.4.0.tgz"
+  integrity "sha1-vrQ35wIrO21JAZ0IhmUwPr6cFLo= sha512-+Hp8fLp57wnUSt0tY0tHEXh4voZRDnoIrZPqlo3DPiI4y9lwg/jqx+1Om94/W6ZaPDOUbnjOt/99w66zk+l1Xg=="
 
-debug@^2.2.0, debug@2.6.9:
+debug@2.6.9, debug@^2.2.0:
   version "2.6.9"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/debug/-/debug-2.6.9.tgz"
-  integrity sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA== sha1-XRKFFd8TT/Mn6QpMk/Tgd6U2NB8=
+  resolved "https://registry.npmjs.org/debug/-/debug-2.6.9.tgz"
+  integrity "sha1-XRKFFd8TT/Mn6QpMk/Tgd6U2NB8= sha512-bC7ElrdJaJnPbAP+1EotYvqZsb3ecl5wi6Bfi6BJTUcNowp6cvspg0jXznRTKDjm/E7AdgFBVeAPVMNcKGsHMA=="
   dependencies:
     ms "2.0.0"
 
-debug@=3.1.0:
-  version "3.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/debug/-/debug-3.1.0.tgz"
-  integrity sha512-OX8XqP7/1a9cqkxYw2yXss15f26NKWBpDXQd0/uK/KPqdQhxbPa994hnzjcE2VqQpDslf55723cKPUOGSmMY3g== sha1-W7WgZyYotkFJVmuhaBnmFRjGcmE=
-  dependencies:
-    ms "2.0.0"
-
-debug@~3.1.0:
-  version "3.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/debug/-/debug-3.1.0.tgz"
-  integrity sha512-OX8XqP7/1a9cqkxYw2yXss15f26NKWBpDXQd0/uK/KPqdQhxbPa994hnzjcE2VqQpDslf55723cKPUOGSmMY3g== sha1-W7WgZyYotkFJVmuhaBnmFRjGcmE=
-  dependencies:
-    ms "2.0.0"
-
-debug@~4.1.0:
+debug@4.1.1, debug@~4.1.0:
   version "4.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/debug/-/debug-4.1.1.tgz"
-  integrity sha512-pYAIzeRo8J6KPEaJ0VWOh5Pzkbw/RetuzehGM7QRRX5he4fPHx2rdKMB256ehJCkX+XRQm16eZLqLNS8RSZXZw== sha1-O3ImAlUQnGtYnO4FDx1RYTlmR5E=
+  resolved "https://registry.npmjs.org/debug/-/debug-4.1.1.tgz"
+  integrity "sha1-O3ImAlUQnGtYnO4FDx1RYTlmR5E= sha512-pYAIzeRo8J6KPEaJ0VWOh5Pzkbw/RetuzehGM7QRRX5he4fPHx2rdKMB256ehJCkX+XRQm16eZLqLNS8RSZXZw=="
   dependencies:
     ms "^2.1.1"
 
-debug@4.1.1:
-  version "4.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/debug/-/debug-4.1.1.tgz"
-  integrity sha512-pYAIzeRo8J6KPEaJ0VWOh5Pzkbw/RetuzehGM7QRRX5he4fPHx2rdKMB256ehJCkX+XRQm16eZLqLNS8RSZXZw== sha1-O3ImAlUQnGtYnO4FDx1RYTlmR5E=
+debug@=3.1.0, debug@~3.1.0:
+  version "3.1.0"
+  resolved "https://registry.npmjs.org/debug/-/debug-3.1.0.tgz"
+  integrity "sha1-W7WgZyYotkFJVmuhaBnmFRjGcmE= sha512-OX8XqP7/1a9cqkxYw2yXss15f26NKWBpDXQd0/uK/KPqdQhxbPa994hnzjcE2VqQpDslf55723cKPUOGSmMY3g=="
   dependencies:
-    ms "^2.1.1"
+    ms "2.0.0"
 
 decamelize@^1.2.0:
   version "1.2.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/decamelize/-/decamelize-1.2.0.tgz"
+  resolved "https://registry.npmjs.org/decamelize/-/decamelize-1.2.0.tgz"
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 depd@~1.1.2:
   version "1.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/depd/-/depd-1.1.2.tgz"
+  resolved "https://registry.npmjs.org/depd/-/depd-1.1.2.tgz"
   integrity sha1-m81S4UwJd2PnSbJ0xDRu0uVgtak=
 
 destroy@~1.0.4:
   version "1.0.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/destroy/-/destroy-1.0.4.tgz"
+  resolved "https://registry.npmjs.org/destroy/-/destroy-1.0.4.tgz"
   integrity sha1-l4hXRCxEdJ5CBmE+N5RiBYJqvYA=
 
 dev-ip@^1.0.1:
   version "1.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/dev-ip/-/dev-ip-1.0.1.tgz"
+  resolved "https://registry.npmjs.org/dev-ip/-/dev-ip-1.0.1.tgz"
   integrity sha1-p2o+0YVb56ASu4rBbLgPPADcKPA=
 
 easy-extender@^2.3.4:
   version "2.3.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/easy-extender/-/easy-extender-2.3.4.tgz"
-  integrity sha512-8cAwm6md1YTiPpOvDULYJL4ZS6WfM5/cTeVVh4JsvyYZAoqlRVUpHL9Gr5Fy7HA6xcSZicUia3DeAgO3Us8E+Q== sha1-KYeJtk+aq6Yhacd6KztktMlYm48=
+  resolved "https://registry.npmjs.org/easy-extender/-/easy-extender-2.3.4.tgz"
+  integrity "sha1-KYeJtk+aq6Yhacd6KztktMlYm48= sha512-8cAwm6md1YTiPpOvDULYJL4ZS6WfM5/cTeVVh4JsvyYZAoqlRVUpHL9Gr5Fy7HA6xcSZicUia3DeAgO3Us8E+Q=="
   dependencies:
     lodash "^4.17.10"
 
 eazy-logger@^3:
   version "3.0.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/eazy-logger/-/eazy-logger-3.0.2.tgz"
+  resolved "https://registry.npmjs.org/eazy-logger/-/eazy-logger-3.0.2.tgz"
   integrity sha1-oyWqXlPROiIliJsqxBE7K5Y29Pw=
   dependencies:
     tfunk "^3.0.1"
 
 ee-first@1.1.1:
   version "1.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ee-first/-/ee-first-1.1.1.tgz"
+  resolved "https://registry.npmjs.org/ee-first/-/ee-first-1.1.1.tgz"
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 emoji-regex@^7.0.1:
   version "7.0.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/emoji-regex/-/emoji-regex-7.0.3.tgz"
-  integrity sha512-CwBLREIQ7LvYFB0WyRvwhq5N5qPhc6PMjD6bYggFlI5YyDgl+0vxq5VHbMOFqLg7hfWzmu8T5Z1QofhmTIhItA== sha1-kzoEBShgyF6DwSJHnEdIqOTHIVY=
+  resolved "https://registry.npmjs.org/emoji-regex/-/emoji-regex-7.0.3.tgz"
+  integrity "sha1-kzoEBShgyF6DwSJHnEdIqOTHIVY= sha512-CwBLREIQ7LvYFB0WyRvwhq5N5qPhc6PMjD6bYggFlI5YyDgl+0vxq5VHbMOFqLg7hfWzmu8T5Z1QofhmTIhItA=="
 
 emoji-regex@^8.0.0:
   version "8.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/emoji-regex/-/emoji-regex-8.0.0.tgz"
-  integrity sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A== sha1-6Bj9ac5cz8tARZT4QpY79TFkzDc=
+  resolved "https://registry.npmjs.org/emoji-regex/-/emoji-regex-8.0.0.tgz"
+  integrity "sha1-6Bj9ac5cz8tARZT4QpY79TFkzDc= sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A=="
 
 encodeurl@~1.0.1, encodeurl@~1.0.2:
   version "1.0.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/encodeurl/-/encodeurl-1.0.2.tgz"
+  resolved "https://registry.npmjs.org/encodeurl/-/encodeurl-1.0.2.tgz"
   integrity sha1-rT/0yG7C0CkyL1oCw6mmBslbP1k=
 
 engine.io-client@~3.2.0:
   version "3.2.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/engine.io-client/-/engine.io-client-3.2.1.tgz"
-  integrity sha512-y5AbkytWeM4jQr7m/koQLc5AxpRKC1hEVUb/s1FUAWEJq5AzJJ4NLvzuKPuxtDi5Mq755WuDvZ6Iv2rXj4PTzw== sha1-b1TAR13khxWKGnx30QF4cItq3TY=
+  resolved "https://registry.npmjs.org/engine.io-client/-/engine.io-client-3.2.1.tgz"
+  integrity "sha1-b1TAR13khxWKGnx30QF4cItq3TY= sha512-y5AbkytWeM4jQr7m/koQLc5AxpRKC1hEVUb/s1FUAWEJq5AzJJ4NLvzuKPuxtDi5Mq755WuDvZ6Iv2rXj4PTzw=="
   dependencies:
     component-emitter "1.2.1"
     component-inherit "0.0.3"
@@ -507,8 +493,8 @@ engine.io-client@~3.2.0:
 
 engine.io-client@~3.4.0:
   version "3.4.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/engine.io-client/-/engine.io-client-3.4.3.tgz"
-  integrity sha512-0NGY+9hioejTEJCaSJZfWZLk4FPI9dN+1H1C4+wj2iuFba47UgZbJzfWs4aNFajnX/qAaYKbe2lLTfEEWzCmcw== sha1-GS0JhlQD4wl+NXXr/rOGHE0Bpmw=
+  resolved "https://registry.npmjs.org/engine.io-client/-/engine.io-client-3.4.3.tgz"
+  integrity "sha1-GS0JhlQD4wl+NXXr/rOGHE0Bpmw= sha512-0NGY+9hioejTEJCaSJZfWZLk4FPI9dN+1H1C4+wj2iuFba47UgZbJzfWs4aNFajnX/qAaYKbe2lLTfEEWzCmcw=="
   dependencies:
     component-emitter "~1.3.0"
     component-inherit "0.0.3"
@@ -524,8 +510,8 @@ engine.io-client@~3.4.0:
 
 engine.io-parser@~2.1.0, engine.io-parser@~2.1.1:
   version "2.1.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/engine.io-parser/-/engine.io-parser-2.1.3.tgz"
-  integrity sha512-6HXPre2O4Houl7c4g7Ic/XzPnHBvaEmN90vtRO9uLmwtRqQmTOw0QMevL1TOfL2Cpu1VzsaTmMotQgMdkzGkVA== sha1-dXq5cPvy37Mse3SwMyFtVznveaY=
+  resolved "https://registry.npmjs.org/engine.io-parser/-/engine.io-parser-2.1.3.tgz"
+  integrity "sha1-dXq5cPvy37Mse3SwMyFtVznveaY= sha512-6HXPre2O4Houl7c4g7Ic/XzPnHBvaEmN90vtRO9uLmwtRqQmTOw0QMevL1TOfL2Cpu1VzsaTmMotQgMdkzGkVA=="
   dependencies:
     after "0.8.2"
     arraybuffer.slice "~0.0.7"
@@ -535,8 +521,8 @@ engine.io-parser@~2.1.0, engine.io-parser@~2.1.1:
 
 engine.io-parser@~2.2.0:
   version "2.2.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/engine.io-parser/-/engine.io-parser-2.2.0.tgz"
-  integrity sha512-6I3qD9iUxotsC5HEMuuGsKA0cXerGz+4uGcXQEkfBidgKf0amsjrrtwcbwK/nzpZBxclXlV7gGl9dgWvu4LF6w== sha1-MSxIlPV9UqArQgho2ntcHISvgO0=
+  resolved "https://registry.npmjs.org/engine.io-parser/-/engine.io-parser-2.2.0.tgz"
+  integrity "sha1-MSxIlPV9UqArQgho2ntcHISvgO0= sha512-6I3qD9iUxotsC5HEMuuGsKA0cXerGz+4uGcXQEkfBidgKf0amsjrrtwcbwK/nzpZBxclXlV7gGl9dgWvu4LF6w=="
   dependencies:
     after "0.8.2"
     arraybuffer.slice "~0.0.7"
@@ -546,8 +532,8 @@ engine.io-parser@~2.2.0:
 
 engine.io@~3.2.0:
   version "3.2.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/engine.io/-/engine.io-3.2.1.tgz"
-  integrity sha512-+VlKzHzMhaU+GsCIg4AoXF1UdDFjHHwMmMKqMJNDNLlUlejz58FCy4LBqB2YVJskHGYl06BatYWKP2TVdVXE5w== sha1-tgKBw1SEpw7gNR6g6/+D7IyVIqI=
+  resolved "https://registry.npmjs.org/engine.io/-/engine.io-3.2.1.tgz"
+  integrity "sha1-tgKBw1SEpw7gNR6g6/+D7IyVIqI= sha512-+VlKzHzMhaU+GsCIg4AoXF1UdDFjHHwMmMKqMJNDNLlUlejz58FCy4LBqB2YVJskHGYl06BatYWKP2TVdVXE5w=="
   dependencies:
     accepts "~1.3.4"
     base64id "1.0.0"
@@ -558,28 +544,28 @@ engine.io@~3.2.0:
 
 escape-html@~1.0.3:
   version "1.0.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/escape-html/-/escape-html-1.0.3.tgz"
+  resolved "https://registry.npmjs.org/escape-html/-/escape-html-1.0.3.tgz"
   integrity sha1-Aljq5NPQwJdN4cFpGI7wBR0dGYg=
 
 escape-string-regexp@^1.0.2:
   version "1.0.5"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
+  resolved "https://registry.npmjs.org/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-etag@^1.8.1, etag@~1.8.1, etag@1.8.1:
+etag@1.8.1, etag@^1.8.1, etag@~1.8.1:
   version "1.8.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/etag/-/etag-1.8.1.tgz"
+  resolved "https://registry.npmjs.org/etag/-/etag-1.8.1.tgz"
   integrity sha1-Qa4u62XvpiJorr/qg6x9eSmbCIc=
 
 eventemitter3@^4.0.0:
   version "4.0.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/eventemitter3/-/eventemitter3-4.0.4.tgz"
-  integrity sha512-rlaVLnVxtxvoyLsQQFBx53YmXHDxRIzzTLbdfxqi4yocpSjAxXwkU0cScM5JgSKMqEhrZpnvQ2D9gjylR0AimQ== sha1-tUY6zmNaCD0Bi9x8kXtMXxCoU4Q=
+  resolved "https://registry.npmjs.org/eventemitter3/-/eventemitter3-4.0.4.tgz"
+  integrity "sha1-tUY6zmNaCD0Bi9x8kXtMXxCoU4Q= sha512-rlaVLnVxtxvoyLsQQFBx53YmXHDxRIzzTLbdfxqi4yocpSjAxXwkU0cScM5JgSKMqEhrZpnvQ2D9gjylR0AimQ=="
 
 express@^4.16.2:
   version "4.17.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/express/-/express-4.17.1.tgz"
-  integrity sha512-mHJ9O79RqluphRrcw2X/GTh3k9tVv8YcoyY4Kkh4WDMUYKRZUq0h1o0w2rrrxBqM7VoeUVqgb27xlEMXTnYt4g== sha1-RJH8OGBc9R+GKdOcK10Cb5ikwTQ=
+  resolved "https://registry.npmjs.org/express/-/express-4.17.1.tgz"
+  integrity "sha1-RJH8OGBc9R+GKdOcK10Cb5ikwTQ= sha512-mHJ9O79RqluphRrcw2X/GTh3k9tVv8YcoyY4Kkh4WDMUYKRZUq0h1o0w2rrrxBqM7VoeUVqgb27xlEMXTnYt4g=="
   dependencies:
     accepts "~1.3.7"
     array-flatten "1.1.1"
@@ -614,27 +600,14 @@ express@^4.16.2:
 
 fill-range@^7.0.1:
   version "7.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/fill-range/-/fill-range-7.0.1.tgz"
-  integrity sha512-qOo9F+dMUmC2Lcb4BbVvnKJxTPjCm+RRpe4gDuGrzkL7mEVl/djYSu2OdQ2Pa302N4oqkSg9ir6jaLWJ2USVpQ== sha1-GRmmp8df44ssfHflGYU12prN2kA=
+  resolved "https://registry.npmjs.org/fill-range/-/fill-range-7.0.1.tgz"
+  integrity "sha1-GRmmp8df44ssfHflGYU12prN2kA= sha512-qOo9F+dMUmC2Lcb4BbVvnKJxTPjCm+RRpe4gDuGrzkL7mEVl/djYSu2OdQ2Pa302N4oqkSg9ir6jaLWJ2USVpQ=="
   dependencies:
     to-regex-range "^5.0.1"
 
-finalhandler@~1.1.2:
-  version "1.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/finalhandler/-/finalhandler-1.1.2.tgz"
-  integrity sha512-aAWcW57uxVNrQZqFXjITpW3sIUQmHGG3qSb9mUah9MgMC4NeWhNOlNjXEYq3HjRAvL6arUviZGGJsBg6z0zsWA== sha1-t+fQAP/RGTjQ/bBTUG9uur6fWH0=
-  dependencies:
-    debug "2.6.9"
-    encodeurl "~1.0.2"
-    escape-html "~1.0.3"
-    on-finished "~2.3.0"
-    parseurl "~1.3.3"
-    statuses "~1.5.0"
-    unpipe "~1.0.0"
-
 finalhandler@1.1.0:
   version "1.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/finalhandler/-/finalhandler-1.1.0.tgz"
+  resolved "https://registry.npmjs.org/finalhandler/-/finalhandler-1.1.0.tgz"
   integrity sha1-zgtoVbRYU+eRsvzGgARtiCU91/U=
   dependencies:
     debug "2.6.9"
@@ -645,102 +618,110 @@ finalhandler@1.1.0:
     statuses "~1.3.1"
     unpipe "~1.0.0"
 
+finalhandler@~1.1.2:
+  version "1.1.2"
+  resolved "https://registry.npmjs.org/finalhandler/-/finalhandler-1.1.2.tgz"
+  integrity "sha1-t+fQAP/RGTjQ/bBTUG9uur6fWH0= sha512-aAWcW57uxVNrQZqFXjITpW3sIUQmHGG3qSb9mUah9MgMC4NeWhNOlNjXEYq3HjRAvL6arUviZGGJsBg6z0zsWA=="
+  dependencies:
+    debug "2.6.9"
+    encodeurl "~1.0.2"
+    escape-html "~1.0.3"
+    on-finished "~2.3.0"
+    parseurl "~1.3.3"
+    statuses "~1.5.0"
+    unpipe "~1.0.0"
+
 find-up@^3.0.0:
   version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/find-up/-/find-up-3.0.0.tgz"
-  integrity sha512-1yD6RmLI1XBfxugvORwlck6f75tYL+iR0jqwsOrOxMZyGYqUuDhJ0l4AXdO1iX/FTs9cBAMEk1gWSEx1kSbylg== sha1-SRafHXmTQwZG2mHsxa41XCHJe3M=
+  resolved "https://registry.npmjs.org/find-up/-/find-up-3.0.0.tgz"
+  integrity "sha1-SRafHXmTQwZG2mHsxa41XCHJe3M= sha512-1yD6RmLI1XBfxugvORwlck6f75tYL+iR0jqwsOrOxMZyGYqUuDhJ0l4AXdO1iX/FTs9cBAMEk1gWSEx1kSbylg=="
   dependencies:
     locate-path "^3.0.0"
 
 find-up@^4.1.0:
   version "4.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/find-up/-/find-up-4.1.0.tgz"
-  integrity sha512-PpOwAdQ/YlXQ2vj8a3h8IipDuYRi3wceVQQGYWxNINccq40Anw7BlsEXCMbt1Zt+OLA6Fq9suIpIWD0OsnISlw== sha1-l6/n1s3AvFkoWEt8jXsW6KmqXRk=
+  resolved "https://registry.npmjs.org/find-up/-/find-up-4.1.0.tgz"
+  integrity "sha1-l6/n1s3AvFkoWEt8jXsW6KmqXRk= sha512-PpOwAdQ/YlXQ2vj8a3h8IipDuYRi3wceVQQGYWxNINccq40Anw7BlsEXCMbt1Zt+OLA6Fq9suIpIWD0OsnISlw=="
   dependencies:
     locate-path "^5.0.0"
     path-exists "^4.0.0"
 
-follow-redirects@^1.0.0:
-  version "1.13.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/follow-redirects/-/follow-redirects-1.13.0.tgz"
-  integrity sha512-aq6gF1BEKje4a9i9+5jimNFIpq4Q1WiwBToeRK5NvZBd/TRsmW8BsJfOEGkr76TbOyPVD3OVDN910EcUNtRYEA== sha1-tC6Nk6Kn7qXtiGM2dtZZe8jjhNs=
-
 follow-redirects@1.5.10:
   version "1.5.10"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/follow-redirects/-/follow-redirects-1.5.10.tgz"
-  integrity sha512-0V5l4Cizzvqt5D44aTXbFZz+FtyXV1vrDN6qrelxtfYQKW0KO0W2T/hkE8xvGa/540LkZlkaUjO4ailYTFtHVQ== sha1-e3qfmuov3/NnhqlP9kPtB/T/Xio=
+  resolved "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.5.10.tgz"
+  integrity "sha1-e3qfmuov3/NnhqlP9kPtB/T/Xio= sha512-0V5l4Cizzvqt5D44aTXbFZz+FtyXV1vrDN6qrelxtfYQKW0KO0W2T/hkE8xvGa/540LkZlkaUjO4ailYTFtHVQ=="
   dependencies:
     debug "=3.1.0"
 
+follow-redirects@^1.0.0:
+  version "1.13.0"
+  resolved "https://registry.npmjs.org/follow-redirects/-/follow-redirects-1.13.0.tgz"
+  integrity "sha1-tC6Nk6Kn7qXtiGM2dtZZe8jjhNs= sha512-aq6gF1BEKje4a9i9+5jimNFIpq4Q1WiwBToeRK5NvZBd/TRsmW8BsJfOEGkr76TbOyPVD3OVDN910EcUNtRYEA=="
+
 forwarded@~0.1.2:
   version "0.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/forwarded/-/forwarded-0.1.2.tgz"
+  resolved "https://registry.npmjs.org/forwarded/-/forwarded-0.1.2.tgz"
   integrity sha1-mMI9qxF1ZXuMBXPozszZGw/xjIQ=
 
-fresh@^0.5.2, fresh@0.5.2:
+fresh@0.5.2, fresh@^0.5.2:
   version "0.5.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/fresh/-/fresh-0.5.2.tgz"
+  resolved "https://registry.npmjs.org/fresh/-/fresh-0.5.2.tgz"
   integrity sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=
 
 fs-extra@3.0.1:
   version "3.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/fs-extra/-/fs-extra-3.0.1.tgz"
+  resolved "https://registry.npmjs.org/fs-extra/-/fs-extra-3.0.1.tgz"
   integrity sha1-N5TzeMWLNC6n27sjCVEJxLO2IpE=
   dependencies:
     graceful-fs "^4.1.2"
     jsonfile "^3.0.0"
     universalify "^0.1.0"
 
+fsevents@~2.1.2:
+  version "2.1.3"
+  resolved "https://artifacts.procoretech.com/artifactory/api/npm/npm/fsevents/-/fsevents-2.1.3.tgz#fb738703ae8d2f9fe900c33836ddebee8b97f23e"
+  integrity sha512-Auw9a4AxqWpa9GUfj370BMPzzyncfBABW8Mab7BGWBYDj4Isgq+cDKtx0i6u9jcX9pQDnswsaaOTgTmA5pEjuQ==
+
 get-caller-file@^2.0.1:
   version "2.0.5"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/get-caller-file/-/get-caller-file-2.0.5.tgz"
-  integrity sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg== sha1-T5RBKoLbMvNuOwuXQfipf+sDH34=
+  resolved "https://registry.npmjs.org/get-caller-file/-/get-caller-file-2.0.5.tgz"
+  integrity "sha1-T5RBKoLbMvNuOwuXQfipf+sDH34= sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg=="
 
 glob-parent@~5.1.0:
   version "5.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/glob-parent/-/glob-parent-5.1.1.tgz"
-  integrity sha512-FnI+VGOpnlGHWZxthPGR+QhR78fuiK0sNLkHQv+bL9fQi57lNNdquIbna/WrfROrolq8GK5Ek6BiMwqL/voRYQ== sha1-tsHvQXxOVmPqSY8cRa+saRa7wik=
+  resolved "https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.1.tgz"
+  integrity "sha1-tsHvQXxOVmPqSY8cRa+saRa7wik= sha512-FnI+VGOpnlGHWZxthPGR+QhR78fuiK0sNLkHQv+bL9fQi57lNNdquIbna/WrfROrolq8GK5Ek6BiMwqL/voRYQ=="
   dependencies:
     is-glob "^4.0.1"
 
 graceful-fs@^4.1.2, graceful-fs@^4.1.6:
   version "4.2.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/graceful-fs/-/graceful-fs-4.2.4.tgz"
-  integrity sha512-WjKPNJF79dtJAVniUlGGWHYGz2jWxT6VhN/4m1NdkbZ2nOsEF+cI1Edgql5zCRhs/VsQYRvrXctxktVXZUkixw== sha1-Ila94U02MpWMRl68ltxGfKB6Kfs=
+  resolved "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.4.tgz"
+  integrity "sha1-Ila94U02MpWMRl68ltxGfKB6Kfs= sha512-WjKPNJF79dtJAVniUlGGWHYGz2jWxT6VhN/4m1NdkbZ2nOsEF+cI1Edgql5zCRhs/VsQYRvrXctxktVXZUkixw=="
 
 has-ansi@^2.0.0:
   version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/has-ansi/-/has-ansi-2.0.0.tgz"
+  resolved "https://registry.npmjs.org/has-ansi/-/has-ansi-2.0.0.tgz"
   integrity sha1-NPUEnOHs3ysGSa8+8k5F7TVBbZE=
   dependencies:
     ansi-regex "^2.0.0"
 
 has-binary2@~1.0.2:
   version "1.0.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/has-binary2/-/has-binary2-1.0.3.tgz"
-  integrity sha512-G1LWKhDSvhGeAQ8mPVQlqNcOB2sJdwATtZKl2pDKKHfpf/rYj24lkinxf69blJbnsvtqqNU+L3SL50vzZhXOnw== sha1-d3asYn8+p3JQz8My2rfd9eT10R0=
+  resolved "https://registry.npmjs.org/has-binary2/-/has-binary2-1.0.3.tgz"
+  integrity "sha1-d3asYn8+p3JQz8My2rfd9eT10R0= sha512-G1LWKhDSvhGeAQ8mPVQlqNcOB2sJdwATtZKl2pDKKHfpf/rYj24lkinxf69blJbnsvtqqNU+L3SL50vzZhXOnw=="
   dependencies:
     isarray "2.0.1"
 
 has-cors@1.1.0:
   version "1.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/has-cors/-/has-cors-1.1.0.tgz"
+  resolved "https://registry.npmjs.org/has-cors/-/has-cors-1.1.0.tgz"
   integrity sha1-XkdHk/fqmEPRu5nCPu9J/xJv/zk=
 
-http-errors@~1.6.2:
-  version "1.6.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/http-errors/-/http-errors-1.6.3.tgz"
-  integrity sha1-i1VoC7S+KDoLW/TqLjhYC+HZMg0=
-  dependencies:
-    depd "~1.1.2"
-    inherits "2.0.3"
-    setprototypeof "1.1.0"
-    statuses ">= 1.4.0 < 2"
-
-http-errors@~1.7.2, http-errors@1.7.2:
+http-errors@1.7.2, http-errors@~1.7.2:
   version "1.7.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/http-errors/-/http-errors-1.7.2.tgz"
-  integrity sha512-uUQBt3H/cSIVfch6i1EuPNy/YsRSOUBXTVfZ+yR7Zjez3qjBz6i9+i4zjNaoqcoFVI4lQJ5plg63TvGfRSDCRg== sha1-T1ApzxMjnzEDblsuVSkrz7zIXI8=
+  resolved "https://registry.npmjs.org/http-errors/-/http-errors-1.7.2.tgz"
+  integrity "sha1-T1ApzxMjnzEDblsuVSkrz7zIXI8= sha512-uUQBt3H/cSIVfch6i1EuPNy/YsRSOUBXTVfZ+yR7Zjez3qjBz6i9+i4zjNaoqcoFVI4lQJ5plg63TvGfRSDCRg=="
   dependencies:
     depd "~1.1.2"
     inherits "2.0.3"
@@ -748,10 +729,20 @@ http-errors@~1.7.2, http-errors@1.7.2:
     statuses ">= 1.5.0 < 2"
     toidentifier "1.0.0"
 
+http-errors@~1.6.2:
+  version "1.6.3"
+  resolved "https://registry.npmjs.org/http-errors/-/http-errors-1.6.3.tgz"
+  integrity sha1-i1VoC7S+KDoLW/TqLjhYC+HZMg0=
+  dependencies:
+    depd "~1.1.2"
+    inherits "2.0.3"
+    setprototypeof "1.1.0"
+    statuses ">= 1.4.0 < 2"
+
 http-proxy@^1.18.1:
   version "1.18.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/http-proxy/-/http-proxy-1.18.1.tgz"
-  integrity sha512-7mz/721AbnJwIVbnaSv1Cz3Am0ZLT/UBwkC92VlxhXv/k/BBQfM2fXElQNC27BVGr0uwUpplYPQM9LnaBMR5NQ== sha1-QBVB8FNIhLv5UmAzTnL4juOXZUk=
+  resolved "https://registry.npmjs.org/http-proxy/-/http-proxy-1.18.1.tgz"
+  integrity "sha1-QBVB8FNIhLv5UmAzTnL4juOXZUk= sha512-7mz/721AbnJwIVbnaSv1Cz3Am0ZLT/UBwkC92VlxhXv/k/BBQfM2fXElQNC27BVGr0uwUpplYPQM9LnaBMR5NQ=="
   dependencies:
     eventemitter3 "^4.0.0"
     follow-redirects "^1.0.0"
@@ -759,103 +750,103 @@ http-proxy@^1.18.1:
 
 iconv-lite@0.4.24:
   version "0.4.24"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/iconv-lite/-/iconv-lite-0.4.24.tgz"
-  integrity sha512-v3MXnZAcvnywkTUEZomIActle7RXXeedOR31wwl7VlyoXO4Qi9arvSenNQWne1TcRwhCL1HwLI21bEqdpj8/rA== sha1-ICK0sl+93CHS9SSXSkdKr+czkIs=
+  resolved "https://registry.npmjs.org/iconv-lite/-/iconv-lite-0.4.24.tgz"
+  integrity "sha1-ICK0sl+93CHS9SSXSkdKr+czkIs= sha512-v3MXnZAcvnywkTUEZomIActle7RXXeedOR31wwl7VlyoXO4Qi9arvSenNQWne1TcRwhCL1HwLI21bEqdpj8/rA=="
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
 
 immutable@^3:
   version "3.8.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/immutable/-/immutable-3.8.2.tgz"
+  resolved "https://registry.npmjs.org/immutable/-/immutable-3.8.2.tgz"
   integrity sha1-wkOZUUVbs5kT2vKBN28VMOEErfM=
 
 indexof@0.0.1:
   version "0.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/indexof/-/indexof-0.0.1.tgz"
+  resolved "https://registry.npmjs.org/indexof/-/indexof-0.0.1.tgz"
   integrity sha1-gtwzbSMrkGIXnQWrMpOmYFn9Q10=
 
 inherits@2.0.3:
   version "2.0.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/inherits/-/inherits-2.0.3.tgz"
+  resolved "https://registry.npmjs.org/inherits/-/inherits-2.0.3.tgz"
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 ipaddr.js@1.9.1:
   version "1.9.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ipaddr.js/-/ipaddr.js-1.9.1.tgz"
-  integrity sha512-0KI/607xoxSToH7GjN1FfSbLoU0+btTicjsQSWQlh/hZykN8KpmMf7uYwPW3R+akZ6R/w18ZlXSHBYXiYUPO3g== sha1-v/OFQ+64mEglB5/zoqjmy9RngbM=
+  resolved "https://registry.npmjs.org/ipaddr.js/-/ipaddr.js-1.9.1.tgz"
+  integrity "sha1-v/OFQ+64mEglB5/zoqjmy9RngbM= sha512-0KI/607xoxSToH7GjN1FfSbLoU0+btTicjsQSWQlh/hZykN8KpmMf7uYwPW3R+akZ6R/w18ZlXSHBYXiYUPO3g=="
 
 is-binary-path@~2.1.0:
   version "2.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/is-binary-path/-/is-binary-path-2.1.0.tgz"
-  integrity sha512-ZMERYes6pDydyuGidse7OsHxtbI7WVeUEozgR/g7rd0xUimYNlvZRE/K2MgZTjWy725IfelLeVcEM97mmtRGXw== sha1-6h9/O4DwZCNug0cPhsCcJU+0Wwk=
+  resolved "https://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz"
+  integrity "sha1-6h9/O4DwZCNug0cPhsCcJU+0Wwk= sha512-ZMERYes6pDydyuGidse7OsHxtbI7WVeUEozgR/g7rd0xUimYNlvZRE/K2MgZTjWy725IfelLeVcEM97mmtRGXw=="
   dependencies:
     binary-extensions "^2.0.0"
 
 is-buffer@^2.0.2:
   version "2.0.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/is-buffer/-/is-buffer-2.0.4.tgz"
-  integrity sha512-Kq1rokWXOPXWuaMAqZiJW4XxsmD9zGx9q4aePabbn3qCRGedtH7Cm+zV8WETitMfu1wdh+Rvd6w5egwSngUX2A== sha1-PlcvI8hBGlz9lVfISeNmXgspBiM=
+  resolved "https://registry.npmjs.org/is-buffer/-/is-buffer-2.0.4.tgz"
+  integrity "sha1-PlcvI8hBGlz9lVfISeNmXgspBiM= sha512-Kq1rokWXOPXWuaMAqZiJW4XxsmD9zGx9q4aePabbn3qCRGedtH7Cm+zV8WETitMfu1wdh+Rvd6w5egwSngUX2A=="
 
 is-extglob@^2.1.1:
   version "2.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/is-extglob/-/is-extglob-2.1.1.tgz"
+  resolved "https://registry.npmjs.org/is-extglob/-/is-extglob-2.1.1.tgz"
   integrity sha1-qIwCU1eR8C7TfHahueqXc8gz+MI=
 
 is-fullwidth-code-point@^2.0.0:
   version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/is-fullwidth-code-point/-/is-fullwidth-code-point-2.0.0.tgz"
+  resolved "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-2.0.0.tgz"
   integrity sha1-o7MKXE8ZkYMWeqq5O+764937ZU8=
 
 is-fullwidth-code-point@^3.0.0:
   version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz"
-  integrity sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg== sha1-8Rb4Bk/pCz94RKOJl8C3UFEmnx0=
+  resolved "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-3.0.0.tgz"
+  integrity "sha1-8Rb4Bk/pCz94RKOJl8C3UFEmnx0= sha512-zymm5+u+sCsSWyD9qNaejV3DFvhCKclKdizYaJUuHA83RLjb7nSuGnddCHGv0hk+KY7BMAlsWeK4Ueg6EV6XQg=="
 
 is-glob@^4.0.1, is-glob@~4.0.1:
   version "4.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/is-glob/-/is-glob-4.0.1.tgz"
-  integrity sha512-5G0tKtBTFImOqDnLB2hG6Bp2qcKEFduo4tZu9MT/H6NQv/ghhy30o55ufafxJ/LdH79LLs2Kfrn85TLKyA7BUg== sha1-dWfb6fL14kZ7x3q4PEopSCQHpdw=
+  resolved "https://registry.npmjs.org/is-glob/-/is-glob-4.0.1.tgz"
+  integrity "sha1-dWfb6fL14kZ7x3q4PEopSCQHpdw= sha512-5G0tKtBTFImOqDnLB2hG6Bp2qcKEFduo4tZu9MT/H6NQv/ghhy30o55ufafxJ/LdH79LLs2Kfrn85TLKyA7BUg=="
   dependencies:
     is-extglob "^2.1.1"
 
 is-number-like@^1.0.3:
   version "1.0.8"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/is-number-like/-/is-number-like-1.0.8.tgz"
-  integrity sha512-6rZi3ezCyFcn5L71ywzz2bS5b2Igl1En3eTlZlvKjpz1n3IZLAYMbKYAIQgFmEu0GENg92ziU/faEOA/aixjbA== sha1-LhKWILUIkQQuROm7uzBZPnXPu+M=
+  resolved "https://registry.npmjs.org/is-number-like/-/is-number-like-1.0.8.tgz"
+  integrity "sha1-LhKWILUIkQQuROm7uzBZPnXPu+M= sha512-6rZi3ezCyFcn5L71ywzz2bS5b2Igl1En3eTlZlvKjpz1n3IZLAYMbKYAIQgFmEu0GENg92ziU/faEOA/aixjbA=="
   dependencies:
     lodash.isfinite "^3.3.2"
 
 is-number@^7.0.0:
   version "7.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/is-number/-/is-number-7.0.0.tgz"
-  integrity sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng== sha1-dTU0W4lnNNX4DE0GxQlVUnoU8Ss=
+  resolved "https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz"
+  integrity "sha1-dTU0W4lnNNX4DE0GxQlVUnoU8Ss= sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng=="
 
 is-wsl@^1.1.0:
   version "1.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/is-wsl/-/is-wsl-1.1.0.tgz"
+  resolved "https://registry.npmjs.org/is-wsl/-/is-wsl-1.1.0.tgz"
   integrity sha1-HxbkqiKwTRM2tmGIpmrzxgDDpm0=
 
 isarray@2.0.1:
   version "2.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/isarray/-/isarray-2.0.1.tgz"
+  resolved "https://registry.npmjs.org/isarray/-/isarray-2.0.1.tgz"
   integrity sha1-o32U7ZzaLVmGXJ92/llu4fM4dB4=
 
 jsonfile@^3.0.0:
   version "3.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/jsonfile/-/jsonfile-3.0.1.tgz"
+  resolved "https://registry.npmjs.org/jsonfile/-/jsonfile-3.0.1.tgz"
   integrity sha1-pezG9l9T9mLEQVx2daAzHQmS7GY=
   optionalDependencies:
     graceful-fs "^4.1.6"
 
 limiter@^1.0.5:
   version "1.1.5"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/limiter/-/limiter-1.1.5.tgz"
-  integrity sha512-FWWMIEOxz3GwUI4Ts/IvgVy6LPvoMPgjMdQ185nN6psJyBJ4yOpzqm695/h5umdLJg2vW3GR5iG11MAkR2AzJA== sha1-j5KiWzsWxhMSk6DMg0tKg4oqp8I=
+  resolved "https://registry.npmjs.org/limiter/-/limiter-1.1.5.tgz"
+  integrity "sha1-j5KiWzsWxhMSk6DMg0tKg4oqp8I= sha512-FWWMIEOxz3GwUI4Ts/IvgVy6LPvoMPgjMdQ185nN6psJyBJ4yOpzqm695/h5umdLJg2vW3GR5iG11MAkR2AzJA=="
 
 lite-server@^2.3.0:
   version "2.5.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/lite-server/-/lite-server-2.5.4.tgz"
-  integrity sha512-57SverS67UqRFiRm0ktdzEG5yZeyzkywRJ9Q8PHVSGuLm9K97Mr6jF43XTu5v9lVe8g0WHJ4eKlIeGSd1Bq/sw== sha1-8cGyW7cM4Pg+sasLCO8ywIrM9OI=
+  resolved "https://registry.npmjs.org/lite-server/-/lite-server-2.5.4.tgz"
+  integrity "sha1-8cGyW7cM4Pg+sasLCO8ywIrM9OI= sha512-57SverS67UqRFiRm0ktdzEG5yZeyzkywRJ9Q8PHVSGuLm9K97Mr6jF43XTu5v9lVe8g0WHJ4eKlIeGSd1Bq/sw=="
   dependencies:
     browser-sync "^2.26.7"
     connect-history-api-fallback "^1.2.0"
@@ -865,8 +856,8 @@ lite-server@^2.3.0:
 
 localtunnel@^2.0.0:
   version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/localtunnel/-/localtunnel-2.0.0.tgz"
-  integrity sha512-g6E0aLgYYDvQDxIjIXkgJo2+pHj3sGg4Wz/XP3h2KtZnRsWPbOQY+hw1H8Z91jep998fkcVE9l+kghO+97vllg== sha1-LqcRdPqA40zOkbKnzkFualfZ/3w=
+  resolved "https://registry.npmjs.org/localtunnel/-/localtunnel-2.0.0.tgz"
+  integrity "sha1-LqcRdPqA40zOkbKnzkFualfZ/3w= sha512-g6E0aLgYYDvQDxIjIXkgJo2+pHj3sGg4Wz/XP3h2KtZnRsWPbOQY+hw1H8Z91jep998fkcVE9l+kghO+97vllg=="
   dependencies:
     axios "0.19.0"
     debug "4.1.1"
@@ -875,218 +866,218 @@ localtunnel@^2.0.0:
 
 locate-path@^3.0.0:
   version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/locate-path/-/locate-path-3.0.0.tgz"
-  integrity sha512-7AO748wWnIhNqAuaty2ZWHkQHRSNfPVIsPIfwEOWO22AmaoVrWavlOcMR5nzTLNYvp36X220/maaRsrec1G65A== sha1-2+w7OrdZdYBxtY/ln8QYca8hQA4=
+  resolved "https://registry.npmjs.org/locate-path/-/locate-path-3.0.0.tgz"
+  integrity "sha1-2+w7OrdZdYBxtY/ln8QYca8hQA4= sha512-7AO748wWnIhNqAuaty2ZWHkQHRSNfPVIsPIfwEOWO22AmaoVrWavlOcMR5nzTLNYvp36X220/maaRsrec1G65A=="
   dependencies:
     p-locate "^3.0.0"
     path-exists "^3.0.0"
 
 locate-path@^5.0.0:
   version "5.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/locate-path/-/locate-path-5.0.0.tgz"
-  integrity sha512-t7hw9pI+WvuwNJXwk5zVHpyhIqzg2qTlklJOf0mVxGSbe3Fp2VieZcduNYjaLDoy6p9uGpQEGWG87WpMKlNq8g== sha1-Gvujlq/WdqbUJQTQpno6frn2KqA=
+  resolved "https://registry.npmjs.org/locate-path/-/locate-path-5.0.0.tgz"
+  integrity "sha1-Gvujlq/WdqbUJQTQpno6frn2KqA= sha512-t7hw9pI+WvuwNJXwk5zVHpyhIqzg2qTlklJOf0mVxGSbe3Fp2VieZcduNYjaLDoy6p9uGpQEGWG87WpMKlNq8g=="
   dependencies:
     p-locate "^4.1.0"
 
 lodash.isfinite@^3.3.2:
   version "3.3.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/lodash.isfinite/-/lodash.isfinite-3.3.2.tgz"
+  resolved "https://registry.npmjs.org/lodash.isfinite/-/lodash.isfinite-3.3.2.tgz"
   integrity sha1-+4m2WpqAKBgz8LdHizpRBPiY67M=
 
 lodash@^4.17.10, lodash@^4.17.15:
   version "4.17.20"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/lodash/-/lodash-4.17.20.tgz"
-  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA== sha1-tEqbYpe8tpjxxRo1RaKzs2jVnFI=
+  resolved "https://registry.npmjs.org/lodash/-/lodash-4.17.20.tgz"
+  integrity "sha1-tEqbYpe8tpjxxRo1RaKzs2jVnFI= sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA=="
 
 media-typer@0.3.0:
   version "0.3.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/media-typer/-/media-typer-0.3.0.tgz"
+  resolved "https://registry.npmjs.org/media-typer/-/media-typer-0.3.0.tgz"
   integrity sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=
 
 merge-descriptors@1.0.1:
   version "1.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/merge-descriptors/-/merge-descriptors-1.0.1.tgz"
+  resolved "https://registry.npmjs.org/merge-descriptors/-/merge-descriptors-1.0.1.tgz"
   integrity sha1-sAqqVW3YtEVoFQ7J0blT8/kMu2E=
 
 methods@~1.1.2:
   version "1.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/methods/-/methods-1.1.2.tgz"
+  resolved "https://registry.npmjs.org/methods/-/methods-1.1.2.tgz"
   integrity sha1-VSmk1nZUE07cxSZmVoNbD4Ua/O4=
 
 micromatch@^4.0.2:
   version "4.0.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/micromatch/-/micromatch-4.0.2.tgz"
-  integrity sha512-y7FpHSbMUMoyPbYUSzO6PaZ6FyRnQOpHuKwbo1G+Knck95XVU4QAiKdGEnj5wwoS7PlOgthX/09u5iFJ+aYf5Q== sha1-T8sJmb+fvC/L3SEvbWKbmlbDklk=
+  resolved "https://registry.npmjs.org/micromatch/-/micromatch-4.0.2.tgz"
+  integrity "sha1-T8sJmb+fvC/L3SEvbWKbmlbDklk= sha512-y7FpHSbMUMoyPbYUSzO6PaZ6FyRnQOpHuKwbo1G+Knck95XVU4QAiKdGEnj5wwoS7PlOgthX/09u5iFJ+aYf5Q=="
   dependencies:
     braces "^3.0.1"
     picomatch "^2.0.5"
 
 mime-db@1.44.0:
   version "1.44.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/mime-db/-/mime-db-1.44.0.tgz"
-  integrity sha512-/NOTfLrsPBVeH7YtFPgsVWveuL+4SjjYxaQ1xtM1KMFj7HdxlBlxeyNLzhyJVx7r4rZGJAZ/6lkKCitSc/Nmpg== sha1-+hHF6wrKEzS0Izy01S8QxaYnL5I=
+  resolved "https://registry.npmjs.org/mime-db/-/mime-db-1.44.0.tgz"
+  integrity "sha1-+hHF6wrKEzS0Izy01S8QxaYnL5I= sha512-/NOTfLrsPBVeH7YtFPgsVWveuL+4SjjYxaQ1xtM1KMFj7HdxlBlxeyNLzhyJVx7r4rZGJAZ/6lkKCitSc/Nmpg=="
 
 mime-types@~2.1.17, mime-types@~2.1.24:
   version "2.1.27"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/mime-types/-/mime-types-2.1.27.tgz"
-  integrity sha512-JIhqnCasI9yD+SsmkquHBxTSEuZdQX5BuQnS2Vc7puQQQ+8yiP5AY5uWhpdv4YL4VM5c6iliiYWPgJ/nJQLp7w== sha1-R5SfmOJ56lMRn1ci4PNOUpvsAJ8=
+  resolved "https://registry.npmjs.org/mime-types/-/mime-types-2.1.27.tgz"
+  integrity "sha1-R5SfmOJ56lMRn1ci4PNOUpvsAJ8= sha512-JIhqnCasI9yD+SsmkquHBxTSEuZdQX5BuQnS2Vc7puQQQ+8yiP5AY5uWhpdv4YL4VM5c6iliiYWPgJ/nJQLp7w=="
   dependencies:
     mime-db "1.44.0"
 
 mime@1.4.1:
   version "1.4.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/mime/-/mime-1.4.1.tgz"
-  integrity sha512-KI1+qOZu5DcW6wayYHSzR/tXKCDC5Om4s1z2QJjDULzLcmf3DvzS7oluY4HCTrc+9FiKmWUgeNLg7W3uIQvxtQ== sha1-Eh+evEnjdm8xGnbh+hyAA8SwOqY=
+  resolved "https://registry.npmjs.org/mime/-/mime-1.4.1.tgz"
+  integrity "sha1-Eh+evEnjdm8xGnbh+hyAA8SwOqY= sha512-KI1+qOZu5DcW6wayYHSzR/tXKCDC5Om4s1z2QJjDULzLcmf3DvzS7oluY4HCTrc+9FiKmWUgeNLg7W3uIQvxtQ=="
 
 mime@1.6.0:
   version "1.6.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/mime/-/mime-1.6.0.tgz"
-  integrity sha512-x0Vn8spI+wuJ1O6S7gnbaQg8Pxh4NNHb7KSINmEWKiPE4RKOplvijn+NkmYmmRgP68mc70j2EbeTFRsrswaQeg== sha1-Ms2eXGRVO9WNGaVor0Uqz/BJgbE=
+  resolved "https://registry.npmjs.org/mime/-/mime-1.6.0.tgz"
+  integrity "sha1-Ms2eXGRVO9WNGaVor0Uqz/BJgbE= sha512-x0Vn8spI+wuJ1O6S7gnbaQg8Pxh4NNHb7KSINmEWKiPE4RKOplvijn+NkmYmmRgP68mc70j2EbeTFRsrswaQeg=="
 
 minimatch@^3.0.2:
   version "3.0.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/minimatch/-/minimatch-3.0.4.tgz"
-  integrity sha512-yJHVQEhyqPLUTgt9B83PXu6W3rx4MvvHvSUvToogpwoGDOUQ+yDrR0HRot+yOCdCO7u4hX3pWft6kWBBcqh0UA== sha1-UWbihkV/AzBgZL5Ul+jbsMPTIIM=
+  resolved "https://registry.npmjs.org/minimatch/-/minimatch-3.0.4.tgz"
+  integrity "sha1-UWbihkV/AzBgZL5Ul+jbsMPTIIM= sha512-yJHVQEhyqPLUTgt9B83PXu6W3rx4MvvHvSUvToogpwoGDOUQ+yDrR0HRot+yOCdCO7u4hX3pWft6kWBBcqh0UA=="
   dependencies:
     brace-expansion "^1.1.7"
 
 minimist@1.2.0:
   version "1.2.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/minimist/-/minimist-1.2.0.tgz"
+  resolved "https://registry.npmjs.org/minimist/-/minimist-1.2.0.tgz"
   integrity sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ=
 
 mitt@^1.1.3:
   version "1.2.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/mitt/-/mitt-1.2.0.tgz"
-  integrity sha512-r6lj77KlwqLhIUku9UWYes7KJtsczvolZkzp8hbaDPPaE24OmWl5s539Mytlj22siEQKosZ26qCBgda2PKwoJw== sha1-yyTmVpyAbjG9TjmVeH/jigT9+Q0=
+  resolved "https://registry.npmjs.org/mitt/-/mitt-1.2.0.tgz"
+  integrity "sha1-yyTmVpyAbjG9TjmVeH/jigT9+Q0= sha512-r6lj77KlwqLhIUku9UWYes7KJtsczvolZkzp8hbaDPPaE24OmWl5s539Mytlj22siEQKosZ26qCBgda2PKwoJw=="
 
 moment@*:
   version "2.27.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/moment/-/moment-2.27.0.tgz"
-  integrity sha512-al0MUK7cpIcglMv3YF13qSgdAIqxHTO7brRtaz3DlSULbqfazqkc5kEjNrLDOM7fsjshoFIihnU8snrP7zUvhQ== sha1-i/9OPiaiNiIN/j423nVrbrqgEF0=
-
-ms@^2.1.1:
-  version "2.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ms/-/ms-2.1.2.tgz"
-  integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w== sha1-0J0fNXtEP0kzgqjrPM0YOHKuYAk=
+  resolved "https://registry.npmjs.org/moment/-/moment-2.27.0.tgz"
+  integrity "sha1-i/9OPiaiNiIN/j423nVrbrqgEF0= sha512-al0MUK7cpIcglMv3YF13qSgdAIqxHTO7brRtaz3DlSULbqfazqkc5kEjNrLDOM7fsjshoFIihnU8snrP7zUvhQ=="
 
 ms@2.0.0:
   version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ms/-/ms-2.0.0.tgz"
+  resolved "https://registry.npmjs.org/ms/-/ms-2.0.0.tgz"
   integrity sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g=
 
 ms@2.1.1:
   version "2.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ms/-/ms-2.1.1.tgz"
-  integrity sha512-tgp+dl5cGk28utYktBsrFqA7HKgrhgPsg6Z/EfhWI4gl1Hwq8B/GmY/0oXZ6nF8hDVesS/FpnYaD/kOWhYQvyg== sha1-MKWGTrPrsKZvLr5tcnrwagnYbgo=
+  resolved "https://registry.npmjs.org/ms/-/ms-2.1.1.tgz"
+  integrity "sha1-MKWGTrPrsKZvLr5tcnrwagnYbgo= sha512-tgp+dl5cGk28utYktBsrFqA7HKgrhgPsg6Z/EfhWI4gl1Hwq8B/GmY/0oXZ6nF8hDVesS/FpnYaD/kOWhYQvyg=="
+
+ms@^2.1.1:
+  version "2.1.2"
+  resolved "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz"
+  integrity "sha1-0J0fNXtEP0kzgqjrPM0YOHKuYAk= sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w=="
 
 negotiator@0.6.2:
   version "0.6.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/negotiator/-/negotiator-0.6.2.tgz"
-  integrity sha512-hZXc7K2e+PgeI1eDBe/10Ard4ekbfrrqG8Ep+8Jmf4JID2bNg7NvCPOZN+kfF574pFQI7mum2AUqDidoKqcTOw== sha1-/qz3zPUlp3rpY0Q2pkiD/+yjRvs=
+  resolved "https://registry.npmjs.org/negotiator/-/negotiator-0.6.2.tgz"
+  integrity "sha1-/qz3zPUlp3rpY0Q2pkiD/+yjRvs= sha512-hZXc7K2e+PgeI1eDBe/10Ard4ekbfrrqG8Ep+8Jmf4JID2bNg7NvCPOZN+kfF574pFQI7mum2AUqDidoKqcTOw=="
 
 normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/normalize-path/-/normalize-path-3.0.0.tgz"
-  integrity sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA== sha1-Dc1p/yOhybEf0JeDFmRKA4ghamU=
+  resolved "https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz"
+  integrity "sha1-Dc1p/yOhybEf0JeDFmRKA4ghamU= sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA=="
 
 object-component@0.0.3:
   version "0.0.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/object-component/-/object-component-0.0.3.tgz"
+  resolved "https://registry.npmjs.org/object-component/-/object-component-0.0.3.tgz"
   integrity sha1-8MaapQ78lbhmwYb0AKM3acsvEpE=
 
 object-path@^0.9.0:
   version "0.9.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/object-path/-/object-path-0.9.2.tgz"
+  resolved "https://registry.npmjs.org/object-path/-/object-path-0.9.2.tgz"
   integrity sha1-D9mnT8X60a45aLWGvaXGMr1sBaU=
 
 on-finished@~2.3.0:
   version "2.3.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/on-finished/-/on-finished-2.3.0.tgz"
+  resolved "https://registry.npmjs.org/on-finished/-/on-finished-2.3.0.tgz"
   integrity sha1-IPEzZIGwg811M3mSoWlxqi2QaUc=
   dependencies:
     ee-first "1.1.1"
 
 openurl@1.1.1:
   version "1.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/openurl/-/openurl-1.1.1.tgz"
+  resolved "https://registry.npmjs.org/openurl/-/openurl-1.1.1.tgz"
   integrity sha1-OHW0sO96UsFW8NtB1GCduw+Us4c=
 
 opn@5.3.0:
   version "5.3.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/opn/-/opn-5.3.0.tgz"
-  integrity sha512-bYJHo/LOmoTd+pfiYhfZDnf9zekVJrY+cnS2a5F2x+w5ppvTqObojTP7WiFG+kVZs9Inw+qQ/lw7TroWwhdd2g== sha1-ZIcVZchjh18FLP31PT48ta21Oxw=
+  resolved "https://registry.npmjs.org/opn/-/opn-5.3.0.tgz"
+  integrity "sha1-ZIcVZchjh18FLP31PT48ta21Oxw= sha512-bYJHo/LOmoTd+pfiYhfZDnf9zekVJrY+cnS2a5F2x+w5ppvTqObojTP7WiFG+kVZs9Inw+qQ/lw7TroWwhdd2g=="
   dependencies:
     is-wsl "^1.1.0"
 
 p-limit@^2.0.0, p-limit@^2.2.0:
   version "2.3.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/p-limit/-/p-limit-2.3.0.tgz"
-  integrity sha512-//88mFWSJx8lxCzwdAABTJL2MyWB12+eIY7MDL2SqLmAkeKU9qxRvWuSyTjm3FUmpBEMuFfckAIqEaVGUDxb6w== sha1-PdM8ZHohT9//2DWTPrCG2g3CHbE=
+  resolved "https://registry.npmjs.org/p-limit/-/p-limit-2.3.0.tgz"
+  integrity "sha1-PdM8ZHohT9//2DWTPrCG2g3CHbE= sha512-//88mFWSJx8lxCzwdAABTJL2MyWB12+eIY7MDL2SqLmAkeKU9qxRvWuSyTjm3FUmpBEMuFfckAIqEaVGUDxb6w=="
   dependencies:
     p-try "^2.0.0"
 
 p-locate@^3.0.0:
   version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/p-locate/-/p-locate-3.0.0.tgz"
-  integrity sha512-x+12w/To+4GFfgJhBEpiDcLozRJGegY+Ei7/z0tSLkMmxGZNybVMSfWj9aJn8Z5Fc7dBUNJOOVgPv2H7IwulSQ== sha1-Mi1poFwCZLJZl9n0DNiokasAZKQ=
+  resolved "https://registry.npmjs.org/p-locate/-/p-locate-3.0.0.tgz"
+  integrity "sha1-Mi1poFwCZLJZl9n0DNiokasAZKQ= sha512-x+12w/To+4GFfgJhBEpiDcLozRJGegY+Ei7/z0tSLkMmxGZNybVMSfWj9aJn8Z5Fc7dBUNJOOVgPv2H7IwulSQ=="
   dependencies:
     p-limit "^2.0.0"
 
 p-locate@^4.1.0:
   version "4.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/p-locate/-/p-locate-4.1.0.tgz"
-  integrity sha512-R79ZZ/0wAxKGu3oYMlz8jy/kbhsNrS7SKZ7PxEHBgJ5+F2mtFW2fK2cOtBh1cHYkQsbzFV7I+EoRKe6Yt0oK7A== sha1-o0KLtwiLOmApL2aRkni3wpetTwc=
+  resolved "https://registry.npmjs.org/p-locate/-/p-locate-4.1.0.tgz"
+  integrity "sha1-o0KLtwiLOmApL2aRkni3wpetTwc= sha512-R79ZZ/0wAxKGu3oYMlz8jy/kbhsNrS7SKZ7PxEHBgJ5+F2mtFW2fK2cOtBh1cHYkQsbzFV7I+EoRKe6Yt0oK7A=="
   dependencies:
     p-limit "^2.2.0"
 
 p-try@^2.0.0:
   version "2.2.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/p-try/-/p-try-2.2.0.tgz"
-  integrity sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ== sha1-yyhoVA4xPWHeWPr741zpAE1VQOY=
+  resolved "https://registry.npmjs.org/p-try/-/p-try-2.2.0.tgz"
+  integrity "sha1-yyhoVA4xPWHeWPr741zpAE1VQOY= sha512-R4nPAVTAU0B9D35/Gk3uJf/7XYbQcyohSKdvAxIRSNghFl4e71hVoGnBNQz9cWaXxO2I10KTC+3jMdvvoKw6dQ=="
 
 parseqs@0.0.5:
   version "0.0.5"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/parseqs/-/parseqs-0.0.5.tgz"
+  resolved "https://registry.npmjs.org/parseqs/-/parseqs-0.0.5.tgz"
   integrity sha1-1SCKNzjkZ2bikbouoXNoSSGouJ0=
   dependencies:
     better-assert "~1.0.0"
 
 parseuri@0.0.5:
   version "0.0.5"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/parseuri/-/parseuri-0.0.5.tgz"
+  resolved "https://registry.npmjs.org/parseuri/-/parseuri-0.0.5.tgz"
   integrity sha1-gCBKUNTbt3m/3G6+J3jZDkvOMgo=
   dependencies:
     better-assert "~1.0.0"
 
 parseurl@~1.3.2, parseurl@~1.3.3:
   version "1.3.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/parseurl/-/parseurl-1.3.3.tgz"
-  integrity sha512-CiyeOxFT/JZyN5m0z9PfXw4SCBJ6Sygz1Dpl0wqjlhDEGGBP1GnsUVEL0p63hoG1fcj3fHynXi9NYO4nWOL+qQ== sha1-naGee+6NEt/wUT7Vt2lXeTvC6NQ=
+  resolved "https://registry.npmjs.org/parseurl/-/parseurl-1.3.3.tgz"
+  integrity "sha1-naGee+6NEt/wUT7Vt2lXeTvC6NQ= sha512-CiyeOxFT/JZyN5m0z9PfXw4SCBJ6Sygz1Dpl0wqjlhDEGGBP1GnsUVEL0p63hoG1fcj3fHynXi9NYO4nWOL+qQ=="
 
 path-exists@^3.0.0:
   version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/path-exists/-/path-exists-3.0.0.tgz"
+  resolved "https://registry.npmjs.org/path-exists/-/path-exists-3.0.0.tgz"
   integrity sha1-zg6+ql94yxiSXqfYENe1mwEP1RU=
 
 path-exists@^4.0.0:
   version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/path-exists/-/path-exists-4.0.0.tgz"
-  integrity sha512-ak9Qy5Q7jYb2Wwcey5Fpvg2KoAc/ZIhLSLOSBmRmygPsGwkVVt0fZa0qrtMz+m6tJTAHfZQ8FnmB4MG4LWy7/w== sha1-UTvb4tO5XXdi6METfvoZXGxhtbM=
+  resolved "https://registry.npmjs.org/path-exists/-/path-exists-4.0.0.tgz"
+  integrity "sha1-UTvb4tO5XXdi6METfvoZXGxhtbM= sha512-ak9Qy5Q7jYb2Wwcey5Fpvg2KoAc/ZIhLSLOSBmRmygPsGwkVVt0fZa0qrtMz+m6tJTAHfZQ8FnmB4MG4LWy7/w=="
 
 path-to-regexp@0.1.7:
   version "0.1.7"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/path-to-regexp/-/path-to-regexp-0.1.7.tgz"
+  resolved "https://registry.npmjs.org/path-to-regexp/-/path-to-regexp-0.1.7.tgz"
   integrity sha1-32BBeABfUi8V60SQ5yR6G/qmf4w=
 
 picomatch@^2.0.4, picomatch@^2.0.5, picomatch@^2.2.1:
   version "2.2.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/picomatch/-/picomatch-2.2.2.tgz"
-  integrity sha512-q0M/9eZHzmr0AulXyPwNfZjtwZ/RBZlbN3K3CErVrk50T2ASYI7Bye0EvekFY3IP1Nt2DHu0re+V2ZHIpMkuWg== sha1-IfMz6ba46v8CRo9RRupAbTRfTa0=
+  resolved "https://registry.npmjs.org/picomatch/-/picomatch-2.2.2.tgz"
+  integrity "sha1-IfMz6ba46v8CRo9RRupAbTRfTa0= sha512-q0M/9eZHzmr0AulXyPwNfZjtwZ/RBZlbN3K3CErVrk50T2ASYI7Bye0EvekFY3IP1Nt2DHu0re+V2ZHIpMkuWg=="
 
 portscanner@2.1.1:
   version "2.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/portscanner/-/portscanner-2.1.1.tgz"
+  resolved "https://registry.npmjs.org/portscanner/-/portscanner-2.1.1.tgz"
   integrity sha1-6rtAnk3iSVD1oqUW01rnaTQ/u5Y=
   dependencies:
     async "1.5.2"
@@ -1094,31 +1085,31 @@ portscanner@2.1.1:
 
 proxy-addr@~2.0.5:
   version "2.0.6"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/proxy-addr/-/proxy-addr-2.0.6.tgz"
-  integrity sha512-dh/frvCBVmSsDYzw6n926jv974gddhkFPfiN8hPOi30Wax25QZyZEGveluCgliBnqmuM+UJmBErbAUFIoDbjOw== sha1-/cIzZQVEfT8vLGOO0nLK9hS7sr8=
+  resolved "https://registry.npmjs.org/proxy-addr/-/proxy-addr-2.0.6.tgz"
+  integrity "sha1-/cIzZQVEfT8vLGOO0nLK9hS7sr8= sha512-dh/frvCBVmSsDYzw6n926jv974gddhkFPfiN8hPOi30Wax25QZyZEGveluCgliBnqmuM+UJmBErbAUFIoDbjOw=="
   dependencies:
     forwarded "~0.1.2"
     ipaddr.js "1.9.1"
 
 qs@6.2.3:
   version "6.2.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/qs/-/qs-6.2.3.tgz"
+  resolved "https://registry.npmjs.org/qs/-/qs-6.2.3.tgz"
   integrity sha1-HPyyXBCpsrSDBT/zn138kjOQjP4=
 
 qs@6.7.0:
   version "6.7.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/qs/-/qs-6.7.0.tgz"
-  integrity sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ== sha1-QdwaAV49WB8WIXdr4xr7KHapsbw=
+  resolved "https://registry.npmjs.org/qs/-/qs-6.7.0.tgz"
+  integrity "sha1-QdwaAV49WB8WIXdr4xr7KHapsbw= sha512-VCdBRNFTX1fyE7Nb6FYoURo/SPe62QCaAyzJvUjwRaIsc+NePBEniHlvxFmmX56+HZphIGtV0XeCirBtpDrTyQ=="
 
 range-parser@~1.2.0, range-parser@~1.2.1:
   version "1.2.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/range-parser/-/range-parser-1.2.1.tgz"
-  integrity sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg== sha1-PPNwI9GZ4cJNGlW4SADC8+ZGgDE=
+  resolved "https://registry.npmjs.org/range-parser/-/range-parser-1.2.1.tgz"
+  integrity "sha1-PPNwI9GZ4cJNGlW4SADC8+ZGgDE= sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg=="
 
-raw-body@^2.3.2, raw-body@2.4.0:
+raw-body@2.4.0, raw-body@^2.3.2:
   version "2.4.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/raw-body/-/raw-body-2.4.0.tgz"
-  integrity sha512-4Oz8DUIwdvoa5qMJelxipzi/iJIi40O5cGV1wNYp5hvZP8ZN0T+jiNkL0QepXs+EsQ9XJ8ipEDoiH70ySUJP3Q== sha1-oc5vucm8NWylLoklarWQWeE9AzI=
+  resolved "https://registry.npmjs.org/raw-body/-/raw-body-2.4.0.tgz"
+  integrity "sha1-oc5vucm8NWylLoklarWQWeE9AzI= sha512-4Oz8DUIwdvoa5qMJelxipzi/iJIi40O5cGV1wNYp5hvZP8ZN0T+jiNkL0QepXs+EsQ9XJ8ipEDoiH70ySUJP3Q=="
   dependencies:
     bytes "3.1.0"
     http-errors "1.7.2"
@@ -1127,29 +1118,29 @@ raw-body@^2.3.2, raw-body@2.4.0:
 
 readdirp@~3.4.0:
   version "3.4.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/readdirp/-/readdirp-3.4.0.tgz"
-  integrity sha512-0xe001vZBnJEK+uKcj8qOhyAKPzIT+gStxWr3LCB0DwcXR5NZJ3IaC+yGnHCYzB/S7ov3m3EEbZI2zeNvX+hGQ== sha1-n9zN+ekVWAVEkiGsZF6DA6tbmto=
+  resolved "https://registry.npmjs.org/readdirp/-/readdirp-3.4.0.tgz"
+  integrity "sha1-n9zN+ekVWAVEkiGsZF6DA6tbmto= sha512-0xe001vZBnJEK+uKcj8qOhyAKPzIT+gStxWr3LCB0DwcXR5NZJ3IaC+yGnHCYzB/S7ov3m3EEbZI2zeNvX+hGQ=="
   dependencies:
     picomatch "^2.2.1"
 
 require-directory@^2.1.1:
   version "2.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/require-directory/-/require-directory-2.1.1.tgz"
+  resolved "https://registry.npmjs.org/require-directory/-/require-directory-2.1.1.tgz"
   integrity sha1-jGStX9MNqxyXbiNE/+f3kqam30I=
 
 require-main-filename@^2.0.0:
   version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/require-main-filename/-/require-main-filename-2.0.0.tgz"
-  integrity sha512-NKN5kMDylKuldxYLSUfrbo5Tuzh4hd+2E8NPPX02mZtn1VuREQToYe/ZdlJy+J3uCpfaiGF05e7B8W0iXbQHmg== sha1-0LMp7MfMD2Fkn2IhW+aa9UqomJs=
+  resolved "https://registry.npmjs.org/require-main-filename/-/require-main-filename-2.0.0.tgz"
+  integrity "sha1-0LMp7MfMD2Fkn2IhW+aa9UqomJs= sha512-NKN5kMDylKuldxYLSUfrbo5Tuzh4hd+2E8NPPX02mZtn1VuREQToYe/ZdlJy+J3uCpfaiGF05e7B8W0iXbQHmg=="
 
 requires-port@^1.0.0:
   version "1.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/requires-port/-/requires-port-1.0.0.tgz"
+  resolved "https://registry.npmjs.org/requires-port/-/requires-port-1.0.0.tgz"
   integrity sha1-kl0mAdOaxIXgkc8NpcbmlNw9yv8=
 
 resp-modifier@6.0.2:
   version "6.0.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/resp-modifier/-/resp-modifier-6.0.2.tgz"
+  resolved "https://registry.npmjs.org/resp-modifier/-/resp-modifier-6.0.2.tgz"
   integrity sha1-sSTeXE+6/LpUH0j/pzlw9KpFa08=
   dependencies:
     debug "^2.2.0"
@@ -1157,30 +1148,30 @@ resp-modifier@6.0.2:
 
 rx@4.1.0:
   version "4.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/rx/-/rx-4.1.0.tgz"
+  resolved "https://registry.npmjs.org/rx/-/rx-4.1.0.tgz"
   integrity sha1-pfE/957zt0D+MKqAP7CfmIBdR4I=
 
 rxjs@^5.5.6:
   version "5.5.12"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/rxjs/-/rxjs-5.5.12.tgz"
-  integrity sha512-xx2itnL5sBbqeeiVgNPVuQQ1nC8Jp2WfNJhXWHmElW9YmrpS9UVnNzhP3EH3HFqexO5Tlp8GhYY+WEcqcVMvGw== sha1-b6YbinfD15PbrycL7i9D9lLXQcw=
+  resolved "https://registry.npmjs.org/rxjs/-/rxjs-5.5.12.tgz"
+  integrity "sha1-b6YbinfD15PbrycL7i9D9lLXQcw= sha512-xx2itnL5sBbqeeiVgNPVuQQ1nC8Jp2WfNJhXWHmElW9YmrpS9UVnNzhP3EH3HFqexO5Tlp8GhYY+WEcqcVMvGw=="
   dependencies:
     symbol-observable "1.0.1"
 
-safe-buffer@~5.1.0, safe-buffer@5.1.2:
+safe-buffer@5.1.2, safe-buffer@~5.1.0:
   version "5.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/safe-buffer/-/safe-buffer-5.1.2.tgz"
-  integrity sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g== sha1-mR7GnSluAxN0fVm9/St0XDX4go0=
+  resolved "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.2.tgz"
+  integrity "sha1-mR7GnSluAxN0fVm9/St0XDX4go0= sha512-Gd2UZBJDkXlY7GbJxfsE8/nvKkUEU1G38c1siN6QP6a9PT9MmHB8GnpscSmMJSoF8LOIrt8ud/wPtojys4G6+g=="
 
 "safer-buffer@>= 2.1.2 < 3":
   version "2.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/safer-buffer/-/safer-buffer-2.1.2.tgz"
-  integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg== sha1-RPoWGwGHuVSd2Eu5GAL5vYOFzWo=
+  resolved "https://registry.npmjs.org/safer-buffer/-/safer-buffer-2.1.2.tgz"
+  integrity "sha1-RPoWGwGHuVSd2Eu5GAL5vYOFzWo= sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg=="
 
 send@0.16.2:
   version "0.16.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/send/-/send-0.16.2.tgz"
-  integrity sha512-E64YFPUssFHEFBvpbbjr44NCLtI1AohxQ8ZSiJjQLskAdKuriYEP6VyGEsRDH8ScozGpkaX1BGvhanqCwkcEZw== sha1-bsyh4PjBVtFBWXVZhI32RzCmu8E=
+  resolved "https://registry.npmjs.org/send/-/send-0.16.2.tgz"
+  integrity "sha1-bsyh4PjBVtFBWXVZhI32RzCmu8E= sha512-E64YFPUssFHEFBvpbbjr44NCLtI1AohxQ8ZSiJjQLskAdKuriYEP6VyGEsRDH8ScozGpkaX1BGvhanqCwkcEZw=="
   dependencies:
     debug "2.6.9"
     depd "~1.1.2"
@@ -1198,8 +1189,8 @@ send@0.16.2:
 
 send@0.17.1:
   version "0.17.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/send/-/send-0.17.1.tgz"
-  integrity sha512-BsVKsiGcQMFwT8UxypobUKyv7irCNRHk1T0G680vk88yf6LBByGcZJOTJCrTP2xVN6yI+XjPJcNuE3V4fT9sAg== sha1-wdiwWfeQD3Rm3Uk4vcROEd2zdsg=
+  resolved "https://registry.npmjs.org/send/-/send-0.17.1.tgz"
+  integrity "sha1-wdiwWfeQD3Rm3Uk4vcROEd2zdsg= sha512-BsVKsiGcQMFwT8UxypobUKyv7irCNRHk1T0G680vk88yf6LBByGcZJOTJCrTP2xVN6yI+XjPJcNuE3V4fT9sAg=="
   dependencies:
     debug "2.6.9"
     depd "~1.1.2"
@@ -1217,7 +1208,7 @@ send@0.17.1:
 
 serve-index@1.9.1:
   version "1.9.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/serve-index/-/serve-index-1.9.1.tgz"
+  resolved "https://registry.npmjs.org/serve-index/-/serve-index-1.9.1.tgz"
   integrity sha1-03aNabHn2C5c4FD/9bRTvqEqkjk=
   dependencies:
     accepts "~1.3.4"
@@ -1230,8 +1221,8 @@ serve-index@1.9.1:
 
 serve-static@1.13.2:
   version "1.13.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/serve-static/-/serve-static-1.13.2.tgz"
-  integrity sha512-p/tdJrO4U387R9oMjb1oj7qSMaMfmOyd4j9hOFoxZe2baQszgHcSWjuya/CiT5kgZZKRudHNOA0pYXOl8rQ5nw== sha1-CV6Ecv1bRiN9tQzkhqQ/S4bGzsE=
+  resolved "https://registry.npmjs.org/serve-static/-/serve-static-1.13.2.tgz"
+  integrity "sha1-CV6Ecv1bRiN9tQzkhqQ/S4bGzsE= sha512-p/tdJrO4U387R9oMjb1oj7qSMaMfmOyd4j9hOFoxZe2baQszgHcSWjuya/CiT5kgZZKRudHNOA0pYXOl8rQ5nw=="
   dependencies:
     encodeurl "~1.0.2"
     escape-html "~1.0.3"
@@ -1240,8 +1231,8 @@ serve-static@1.13.2:
 
 serve-static@1.14.1:
   version "1.14.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/serve-static/-/serve-static-1.14.1.tgz"
-  integrity sha512-JMrvUwE54emCYWlTI+hGrGv5I8dEwmco/00EvkzIIsR7MqrHonbD9pO2MOfFnpFntl7ecpZs+3mW+XbQZu9QCg== sha1-Zm5jbcTwEPfvKZcKiKZ0MgiYsvk=
+  resolved "https://registry.npmjs.org/serve-static/-/serve-static-1.14.1.tgz"
+  integrity "sha1-Zm5jbcTwEPfvKZcKiKZ0MgiYsvk= sha512-JMrvUwE54emCYWlTI+hGrGv5I8dEwmco/00EvkzIIsR7MqrHonbD9pO2MOfFnpFntl7ecpZs+3mW+XbQZu9QCg=="
   dependencies:
     encodeurl "~1.0.2"
     escape-html "~1.0.3"
@@ -1250,53 +1241,33 @@ serve-static@1.14.1:
 
 server-destroy@1.0.1:
   version "1.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/server-destroy/-/server-destroy-1.0.1.tgz"
+  resolved "https://registry.npmjs.org/server-destroy/-/server-destroy-1.0.1.tgz"
   integrity sha1-8Tv5KOQrnD55OD5hzDmYtdFObN0=
 
 set-blocking@^2.0.0:
   version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/set-blocking/-/set-blocking-2.0.0.tgz"
+  resolved "https://registry.npmjs.org/set-blocking/-/set-blocking-2.0.0.tgz"
   integrity sha1-BF+XgtARrppoA93TgrJDkrPYkPc=
 
 setprototypeof@1.1.0:
   version "1.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/setprototypeof/-/setprototypeof-1.1.0.tgz"
-  integrity sha512-BvE/TwpZX4FXExxOxZyRGQQv651MSwmWKZGqvmPcRIjDqWub67kTKuIMx43cZZrS/cBBzwBcNDWoFxt2XEFIpQ== sha1-0L2FU2iHtv58DYGMuWLZ2RxU5lY=
+  resolved "https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.1.0.tgz"
+  integrity "sha1-0L2FU2iHtv58DYGMuWLZ2RxU5lY= sha512-BvE/TwpZX4FXExxOxZyRGQQv651MSwmWKZGqvmPcRIjDqWub67kTKuIMx43cZZrS/cBBzwBcNDWoFxt2XEFIpQ=="
 
 setprototypeof@1.1.1:
   version "1.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/setprototypeof/-/setprototypeof-1.1.1.tgz"
-  integrity sha512-JvdAWfbXeIGaZ9cILp38HntZSFSo3mWg6xGcJJsd+d4aRMOqauag1C63dJfDw7OaMYwEbHMOxEZ1lqVRYP2OAw== sha1-fpWsskqpL1iF4KvvW6ExMw1K5oM=
+  resolved "https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.1.1.tgz"
+  integrity "sha1-fpWsskqpL1iF4KvvW6ExMw1K5oM= sha512-JvdAWfbXeIGaZ9cILp38HntZSFSo3mWg6xGcJJsd+d4aRMOqauag1C63dJfDw7OaMYwEbHMOxEZ1lqVRYP2OAw=="
 
 socket.io-adapter@~1.1.0:
   version "1.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/socket.io-adapter/-/socket.io-adapter-1.1.2.tgz"
-  integrity sha512-WzZRUj1kUjrTIrUKpZLEzFZ1OLj5FwLlAFQs9kuZJzJi5DKdU7FsWc36SNmA8iDOtwBQyT8FkrriRM8vXLYz8g== sha1-qz8Nb2a4/H/KOVmrWZH4IiF4m+k=
-
-socket.io-client@^2.0.4:
-  version "2.3.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/socket.io-client/-/socket.io-client-2.3.0.tgz"
-  integrity sha512-cEQQf24gET3rfhxZ2jJ5xzAOo/xhZwK+mOqtGRg5IowZsMgwvHwnf/mCRapAAkadhM26y+iydgwsXGObBB5ZdA== sha1-FNW6LgC5vNFFrkQ6uWs/hsvMG7Q=
-  dependencies:
-    backo2 "1.0.2"
-    base64-arraybuffer "0.1.5"
-    component-bind "1.0.0"
-    component-emitter "1.2.1"
-    debug "~4.1.0"
-    engine.io-client "~3.4.0"
-    has-binary2 "~1.0.2"
-    has-cors "1.1.0"
-    indexof "0.0.1"
-    object-component "0.0.3"
-    parseqs "0.0.5"
-    parseuri "0.0.5"
-    socket.io-parser "~3.3.0"
-    to-array "0.1.4"
+  resolved "https://registry.npmjs.org/socket.io-adapter/-/socket.io-adapter-1.1.2.tgz"
+  integrity "sha1-qz8Nb2a4/H/KOVmrWZH4IiF4m+k= sha512-WzZRUj1kUjrTIrUKpZLEzFZ1OLj5FwLlAFQs9kuZJzJi5DKdU7FsWc36SNmA8iDOtwBQyT8FkrriRM8vXLYz8g=="
 
 socket.io-client@2.1.1:
   version "2.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/socket.io-client/-/socket.io-client-2.1.1.tgz"
-  integrity sha512-jxnFyhAuFxYfjqIgduQlhzqTcOEQSn+OHKVfAxWaNWa7ecP7xSNk2Dx/3UEsDcY7NcFafxvNvKPmmO7HTwTxGQ== sha1-3LOBA0NqtFeN2wJmOK4vIbYjZx8=
+  resolved "https://registry.npmjs.org/socket.io-client/-/socket.io-client-2.1.1.tgz"
+  integrity "sha1-3LOBA0NqtFeN2wJmOK4vIbYjZx8= sha512-jxnFyhAuFxYfjqIgduQlhzqTcOEQSn+OHKVfAxWaNWa7ecP7xSNk2Dx/3UEsDcY7NcFafxvNvKPmmO7HTwTxGQ=="
   dependencies:
     backo2 "1.0.2"
     base64-arraybuffer "0.1.5"
@@ -1313,10 +1284,30 @@ socket.io-client@2.1.1:
     socket.io-parser "~3.2.0"
     to-array "0.1.4"
 
+socket.io-client@^2.0.4:
+  version "2.3.0"
+  resolved "https://registry.npmjs.org/socket.io-client/-/socket.io-client-2.3.0.tgz"
+  integrity "sha1-FNW6LgC5vNFFrkQ6uWs/hsvMG7Q= sha512-cEQQf24gET3rfhxZ2jJ5xzAOo/xhZwK+mOqtGRg5IowZsMgwvHwnf/mCRapAAkadhM26y+iydgwsXGObBB5ZdA=="
+  dependencies:
+    backo2 "1.0.2"
+    base64-arraybuffer "0.1.5"
+    component-bind "1.0.0"
+    component-emitter "1.2.1"
+    debug "~4.1.0"
+    engine.io-client "~3.4.0"
+    has-binary2 "~1.0.2"
+    has-cors "1.1.0"
+    indexof "0.0.1"
+    object-component "0.0.3"
+    parseqs "0.0.5"
+    parseuri "0.0.5"
+    socket.io-parser "~3.3.0"
+    to-array "0.1.4"
+
 socket.io-parser@~3.2.0:
   version "3.2.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/socket.io-parser/-/socket.io-parser-3.2.0.tgz"
-  integrity sha512-FYiBx7rc/KORMJlgsXysflWx/RIvtqZbyGLlHZvjfmPTPeuD/I8MaW7cfFrj5tRltICJdgwflhfZ3NVVbVLFQA== sha1-58Yii2qh+BTmFIrqMltRqpSZ4Hc=
+  resolved "https://registry.npmjs.org/socket.io-parser/-/socket.io-parser-3.2.0.tgz"
+  integrity "sha1-58Yii2qh+BTmFIrqMltRqpSZ4Hc= sha512-FYiBx7rc/KORMJlgsXysflWx/RIvtqZbyGLlHZvjfmPTPeuD/I8MaW7cfFrj5tRltICJdgwflhfZ3NVVbVLFQA=="
   dependencies:
     component-emitter "1.2.1"
     debug "~3.1.0"
@@ -1324,8 +1315,8 @@ socket.io-parser@~3.2.0:
 
 socket.io-parser@~3.3.0:
   version "3.3.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/socket.io-parser/-/socket.io-parser-3.3.0.tgz"
-  integrity sha512-hczmV6bDgdaEbVqhAeVMM/jfUfzuEZHsQg6eOmLgJht6G3mPKMxYm75w2+qhAQZ+4X+1+ATZ+QFKeOZD5riHng== sha1-K1KpalCf3zFEC6QP7WCUx9TxJi8=
+  resolved "https://registry.npmjs.org/socket.io-parser/-/socket.io-parser-3.3.0.tgz"
+  integrity "sha1-K1KpalCf3zFEC6QP7WCUx9TxJi8= sha512-hczmV6bDgdaEbVqhAeVMM/jfUfzuEZHsQg6eOmLgJht6G3mPKMxYm75w2+qhAQZ+4X+1+ATZ+QFKeOZD5riHng=="
   dependencies:
     component-emitter "1.2.1"
     debug "~3.1.0"
@@ -1333,8 +1324,8 @@ socket.io-parser@~3.3.0:
 
 socket.io@2.1.1:
   version "2.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/socket.io/-/socket.io-2.1.1.tgz"
-  integrity sha512-rORqq9c+7W0DAK3cleWNSyfv/qKXV99hV4tZe+gGLfBECw3XEhBy7x85F3wypA9688LKjtwO9pX9L33/xQI8yA== sha1-oGnF/qvuPmshSnW0DOBlLhz7mYA=
+  resolved "https://registry.npmjs.org/socket.io/-/socket.io-2.1.1.tgz"
+  integrity "sha1-oGnF/qvuPmshSnW0DOBlLhz7mYA= sha512-rORqq9c+7W0DAK3cleWNSyfv/qKXV99hV4tZe+gGLfBECw3XEhBy7x85F3wypA9688LKjtwO9pX9L33/xQI8yA=="
   dependencies:
     debug "~3.1.0"
     engine.io "~3.2.0"
@@ -1345,22 +1336,22 @@ socket.io@2.1.1:
 
 "statuses@>= 1.4.0 < 2", "statuses@>= 1.5.0 < 2", statuses@~1.5.0:
   version "1.5.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/statuses/-/statuses-1.5.0.tgz"
+  resolved "https://registry.npmjs.org/statuses/-/statuses-1.5.0.tgz"
   integrity sha1-Fhx9rBd2Wf2YEfQ3cfqZOBR4Yow=
 
 statuses@~1.3.1:
   version "1.3.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/statuses/-/statuses-1.3.1.tgz"
+  resolved "https://registry.npmjs.org/statuses/-/statuses-1.3.1.tgz"
   integrity sha1-+vUbnrdKrvOzrPStX2Gr8ky3uT4=
 
 statuses@~1.4.0:
   version "1.4.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/statuses/-/statuses-1.4.0.tgz"
-  integrity sha512-zhSCtt8v2NDrRlPQpCNtw/heZLtfUDqxBM1udqikb/Hbk52LK4nQSwr10u77iopCW5LsyHpuXS0GnEc48mLeew== sha1-u3PURtonlhBu/MG2AaJT1sRr0Ic=
+  resolved "https://registry.npmjs.org/statuses/-/statuses-1.4.0.tgz"
+  integrity "sha1-u3PURtonlhBu/MG2AaJT1sRr0Ic= sha512-zhSCtt8v2NDrRlPQpCNtw/heZLtfUDqxBM1udqikb/Hbk52LK4nQSwr10u77iopCW5LsyHpuXS0GnEc48mLeew=="
 
 stream-throttle@^0.1.3:
   version "0.1.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/stream-throttle/-/stream-throttle-0.1.3.tgz"
+  resolved "https://registry.npmjs.org/stream-throttle/-/stream-throttle-0.1.3.tgz"
   integrity sha1-rdV8jXzHOoFjDTHNVdOWHPr7qcM=
   dependencies:
     commander "^2.2.0"
@@ -1368,8 +1359,8 @@ stream-throttle@^0.1.3:
 
 string-width@^3.0.0, string-width@^3.1.0:
   version "3.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/string-width/-/string-width-3.1.0.tgz"
-  integrity sha512-vafcv6KjVZKSgz06oM/H6GDBrAtz8vdhQakGjFIvNrHA6y3HCF1CInLy+QLq8dTJPQ1b+KDUqDFctkdRW44e1w== sha1-InZ74htirxCBV0MG9prFG2IgOWE=
+  resolved "https://registry.npmjs.org/string-width/-/string-width-3.1.0.tgz"
+  integrity "sha1-InZ74htirxCBV0MG9prFG2IgOWE= sha512-vafcv6KjVZKSgz06oM/H6GDBrAtz8vdhQakGjFIvNrHA6y3HCF1CInLy+QLq8dTJPQ1b+KDUqDFctkdRW44e1w=="
   dependencies:
     emoji-regex "^7.0.1"
     is-fullwidth-code-point "^2.0.0"
@@ -1377,8 +1368,8 @@ string-width@^3.0.0, string-width@^3.1.0:
 
 string-width@^4.1.0, string-width@^4.2.0:
   version "4.2.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/string-width/-/string-width-4.2.0.tgz"
-  integrity sha512-zUz5JD+tgqtuDjMhwIg5uFVV3dtqZ9yQJlZVfq4I01/K5Paj5UHj7VyrQOJvzawSVlKpObApbfD0Ed6yJc+1eg== sha1-lSGCxGzHssMT0VluYjmSvRY7crU=
+  resolved "https://registry.npmjs.org/string-width/-/string-width-4.2.0.tgz"
+  integrity "sha1-lSGCxGzHssMT0VluYjmSvRY7crU= sha512-zUz5JD+tgqtuDjMhwIg5uFVV3dtqZ9yQJlZVfq4I01/K5Paj5UHj7VyrQOJvzawSVlKpObApbfD0Ed6yJc+1eg=="
   dependencies:
     emoji-regex "^8.0.0"
     is-fullwidth-code-point "^3.0.0"
@@ -1386,38 +1377,38 @@ string-width@^4.1.0, string-width@^4.2.0:
 
 strip-ansi@^3.0.0:
   version "3.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/strip-ansi/-/strip-ansi-3.0.1.tgz"
+  resolved "https://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz"
   integrity sha1-ajhfuIU9lS1f8F0Oiq+UJ43GPc8=
   dependencies:
     ansi-regex "^2.0.0"
 
 strip-ansi@^5.0.0, strip-ansi@^5.1.0, strip-ansi@^5.2.0:
   version "5.2.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/strip-ansi/-/strip-ansi-5.2.0.tgz"
-  integrity sha512-DuRs1gKbBqsMKIZlrffwlug8MHkcnpjs5VPmL1PAh+mA30U0DTotfDZ0d2UUsXpPmPmMMJ6W773MaA3J+lbiWA== sha1-jJpTb+tq/JYr36WxBKUJHBrZwK4=
+  resolved "https://registry.npmjs.org/strip-ansi/-/strip-ansi-5.2.0.tgz"
+  integrity "sha1-jJpTb+tq/JYr36WxBKUJHBrZwK4= sha512-DuRs1gKbBqsMKIZlrffwlug8MHkcnpjs5VPmL1PAh+mA30U0DTotfDZ0d2UUsXpPmPmMMJ6W773MaA3J+lbiWA=="
   dependencies:
     ansi-regex "^4.1.0"
 
 strip-ansi@^6.0.0:
   version "6.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/strip-ansi/-/strip-ansi-6.0.0.tgz"
-  integrity sha512-AuvKTrTfQNYNIctbR1K/YGTR1756GycPsg7b9bdV9Duqur4gv6aKqHXah67Z8ImS7WEz5QVcOtlfW2rZEugt6w== sha1-CxVx3XZpzNTz4G4U7x7tJiJa5TI=
+  resolved "https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.0.tgz"
+  integrity "sha1-CxVx3XZpzNTz4G4U7x7tJiJa5TI= sha512-AuvKTrTfQNYNIctbR1K/YGTR1756GycPsg7b9bdV9Duqur4gv6aKqHXah67Z8ImS7WEz5QVcOtlfW2rZEugt6w=="
   dependencies:
     ansi-regex "^5.0.0"
 
 supports-color@^2.0.0:
   version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/supports-color/-/supports-color-2.0.0.tgz"
+  resolved "https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz"
   integrity sha1-U10EXOa2Nj+kARcIRimZXp3zJMc=
 
 symbol-observable@1.0.1:
   version "1.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/symbol-observable/-/symbol-observable-1.0.1.tgz"
+  resolved "https://registry.npmjs.org/symbol-observable/-/symbol-observable-1.0.1.tgz"
   integrity sha1-g0D8RwLDEi310iKI+IKD9RPT/dQ=
 
 tfunk@^3.0.1:
   version "3.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/tfunk/-/tfunk-3.1.0.tgz"
+  resolved "https://registry.npmjs.org/tfunk/-/tfunk-3.1.0.tgz"
   integrity sha1-OORBT8ZJd9h6/apy+sttKfgve1s=
   dependencies:
     chalk "^1.1.1"
@@ -1425,68 +1416,68 @@ tfunk@^3.0.1:
 
 to-array@0.1.4:
   version "0.1.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/to-array/-/to-array-0.1.4.tgz"
+  resolved "https://registry.npmjs.org/to-array/-/to-array-0.1.4.tgz"
   integrity sha1-F+bBH3PdTz10zaek/zI46a2b+JA=
 
 to-regex-range@^5.0.1:
   version "5.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/to-regex-range/-/to-regex-range-5.0.1.tgz"
-  integrity sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ== sha1-FkjESq58jZiKMmAY7XL1tN0DkuQ=
+  resolved "https://registry.npmjs.org/to-regex-range/-/to-regex-range-5.0.1.tgz"
+  integrity "sha1-FkjESq58jZiKMmAY7XL1tN0DkuQ= sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ=="
   dependencies:
     is-number "^7.0.0"
 
 toidentifier@1.0.0:
   version "1.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/toidentifier/-/toidentifier-1.0.0.tgz"
-  integrity sha512-yaOH/Pk/VEhBWWTlhI+qXxDFXlejDGcQipMlyxda9nthulaxLZUNcUqFxokp0vcYnvteJln5FNQDRrxj3YcbVw== sha1-fhvjRw8ed5SLxD2Uo8j013UrpVM=
+  resolved "https://registry.npmjs.org/toidentifier/-/toidentifier-1.0.0.tgz"
+  integrity "sha1-fhvjRw8ed5SLxD2Uo8j013UrpVM= sha512-yaOH/Pk/VEhBWWTlhI+qXxDFXlejDGcQipMlyxda9nthulaxLZUNcUqFxokp0vcYnvteJln5FNQDRrxj3YcbVw=="
 
 type-is@~1.6.17, type-is@~1.6.18:
   version "1.6.18"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/type-is/-/type-is-1.6.18.tgz"
-  integrity sha512-TkRKr9sUTxEH8MdfuCSP7VizJyzRNMjj2J2do2Jr3Kym598JVdEksuzPQCnlFPW4ky9Q+iA+ma9BGm06XQBy8g== sha1-TlUs0F3wlGfcvE73Od6J8s83wTE=
+  resolved "https://registry.npmjs.org/type-is/-/type-is-1.6.18.tgz"
+  integrity "sha1-TlUs0F3wlGfcvE73Od6J8s83wTE= sha512-TkRKr9sUTxEH8MdfuCSP7VizJyzRNMjj2J2do2Jr3Kym598JVdEksuzPQCnlFPW4ky9Q+iA+ma9BGm06XQBy8g=="
   dependencies:
     media-typer "0.3.0"
     mime-types "~2.1.24"
 
 ua-parser-js@^0.7.18:
   version "0.7.21"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ua-parser-js/-/ua-parser-js-0.7.21.tgz"
-  integrity sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ== sha1-hTz5zpP2QvZxdCc8w0Vlrm8wh3c=
+  resolved "https://registry.npmjs.org/ua-parser-js/-/ua-parser-js-0.7.21.tgz"
+  integrity "sha1-hTz5zpP2QvZxdCc8w0Vlrm8wh3c= sha512-+O8/qh/Qj8CgC6eYBVBykMrNtp5Gebn4dlGD/kKXVkJNDwyrAwSIqwz8CDf+tsAIWVycKcku6gIXJ0qwx/ZXaQ=="
 
 ultron@~1.1.0:
   version "1.1.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ultron/-/ultron-1.1.1.tgz"
-  integrity sha512-UIEXBNeYmKptWH6z8ZnqTeS8fV74zG0/eRU9VGkpzz+LIJNs8W/zM/L+7ctCkRrgbNnnR0xxw4bKOr0cW0N0Og== sha1-n+FTahCmZKZSZqHjzPhf02MCvJw=
+  resolved "https://registry.npmjs.org/ultron/-/ultron-1.1.1.tgz"
+  integrity "sha1-n+FTahCmZKZSZqHjzPhf02MCvJw= sha512-UIEXBNeYmKptWH6z8ZnqTeS8fV74zG0/eRU9VGkpzz+LIJNs8W/zM/L+7ctCkRrgbNnnR0xxw4bKOr0cW0N0Og=="
 
 universalify@^0.1.0:
   version "0.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/universalify/-/universalify-0.1.2.tgz"
-  integrity sha512-rBJeI5CXAlmy1pV+617WB9J63U6XcazHHF2f2dbJix4XzpUF0RS3Zbj0FGIOCAva5P/d/GBOYaACQ1w+0azUkg== sha1-tkb2m+OULavOzJ1mOcgNwQXvqmY=
+  resolved "https://registry.npmjs.org/universalify/-/universalify-0.1.2.tgz"
+  integrity "sha1-tkb2m+OULavOzJ1mOcgNwQXvqmY= sha512-rBJeI5CXAlmy1pV+617WB9J63U6XcazHHF2f2dbJix4XzpUF0RS3Zbj0FGIOCAva5P/d/GBOYaACQ1w+0azUkg=="
 
-unpipe@~1.0.0, unpipe@1.0.0:
+unpipe@1.0.0, unpipe@~1.0.0:
   version "1.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/unpipe/-/unpipe-1.0.0.tgz"
+  resolved "https://registry.npmjs.org/unpipe/-/unpipe-1.0.0.tgz"
   integrity sha1-sr9O6FFKrmFltIF4KdIbLvSZBOw=
 
 utils-merge@1.0.1:
   version "1.0.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/utils-merge/-/utils-merge-1.0.1.tgz"
+  resolved "https://registry.npmjs.org/utils-merge/-/utils-merge-1.0.1.tgz"
   integrity sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=
 
 vary@~1.1.2:
   version "1.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/vary/-/vary-1.1.2.tgz"
+  resolved "https://registry.npmjs.org/vary/-/vary-1.1.2.tgz"
   integrity sha1-IpnwLG3tMNSllhsLn3RSShj2NPw=
 
 which-module@^2.0.0:
   version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/which-module/-/which-module-2.0.0.tgz"
+  resolved "https://registry.npmjs.org/which-module/-/which-module-2.0.0.tgz"
   integrity sha1-2e8H3Od7mQK4o6j6SzHD4/fm6Ho=
 
 wrap-ansi@^5.1.0:
   version "5.1.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/wrap-ansi/-/wrap-ansi-5.1.0.tgz"
-  integrity sha512-QC1/iN/2/RPVJ5jYK8BGttj5z83LmSKmvbvrXPNCLZSEb32KKVDJDl/MOt2N01qU2H/FkzEa9PKto1BqDjtd7Q== sha1-H9H2cjXVttD+54EFYAG/tpTAOwk=
+  resolved "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-5.1.0.tgz"
+  integrity "sha1-H9H2cjXVttD+54EFYAG/tpTAOwk= sha512-QC1/iN/2/RPVJ5jYK8BGttj5z83LmSKmvbvrXPNCLZSEb32KKVDJDl/MOt2N01qU2H/FkzEa9PKto1BqDjtd7Q=="
   dependencies:
     ansi-styles "^3.2.0"
     string-width "^3.0.0"
@@ -1494,8 +1485,8 @@ wrap-ansi@^5.1.0:
 
 wrap-ansi@^6.2.0:
   version "6.2.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/wrap-ansi/-/wrap-ansi-6.2.0.tgz"
-  integrity sha512-r6lPcBGxZXlIcymEu7InxDMhdW0KDxpLgoFLcguasxCaJ/SOIZwINatK9KY/tf+ZrlywOKU0UDj3ATXUBfxJXA== sha1-6Tk7oHEC5skaOyIUePAlfNKFblM=
+  resolved "https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-6.2.0.tgz"
+  integrity "sha1-6Tk7oHEC5skaOyIUePAlfNKFblM= sha512-r6lPcBGxZXlIcymEu7InxDMhdW0KDxpLgoFLcguasxCaJ/SOIZwINatK9KY/tf+ZrlywOKU0UDj3ATXUBfxJXA=="
   dependencies:
     ansi-styles "^4.0.0"
     string-width "^4.1.0"
@@ -1503,8 +1494,8 @@ wrap-ansi@^6.2.0:
 
 ws@~3.3.1:
   version "3.3.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ws/-/ws-3.3.3.tgz"
-  integrity sha512-nnWLa/NwZSt4KQJu51MYlCcSQ5g7INpOrOMt4XV8j4dqTXdmlUmSHQ8/oLC069ckre0fRsgfvsKwbTdtKLCDkA== sha1-8c+E/i1ekB686U767OeF8YeiKPI=
+  resolved "https://registry.npmjs.org/ws/-/ws-3.3.3.tgz"
+  integrity "sha1-8c+E/i1ekB686U767OeF8YeiKPI= sha512-nnWLa/NwZSt4KQJu51MYlCcSQ5g7INpOrOMt4XV8j4dqTXdmlUmSHQ8/oLC069ckre0fRsgfvsKwbTdtKLCDkA=="
   dependencies:
     async-limiter "~1.0.0"
     safe-buffer "~5.1.0"
@@ -1512,41 +1503,57 @@ ws@~3.3.1:
 
 ws@~6.1.0:
   version "6.1.4"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/ws/-/ws-6.1.4.tgz"
-  integrity sha512-eqZfL+NE/YQc1/ZynhojeV8q+H050oR8AZ2uIev7RU10svA9ZnJUddHcOUZTJLinZ9yEfdA2kSATS2qZK5fhJA== sha1-W1yIAK+rkl6UzLKdFTyNAsF3bvk=
+  resolved "https://registry.npmjs.org/ws/-/ws-6.1.4.tgz"
+  integrity "sha1-W1yIAK+rkl6UzLKdFTyNAsF3bvk= sha512-eqZfL+NE/YQc1/ZynhojeV8q+H050oR8AZ2uIev7RU10svA9ZnJUddHcOUZTJLinZ9yEfdA2kSATS2qZK5fhJA=="
   dependencies:
     async-limiter "~1.0.0"
 
 xmlhttprequest-ssl@~1.5.4:
   version "1.5.5"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/xmlhttprequest-ssl/-/xmlhttprequest-ssl-1.5.5.tgz"
+  resolved "https://registry.npmjs.org/xmlhttprequest-ssl/-/xmlhttprequest-ssl-1.5.5.tgz"
   integrity sha1-wodrBhaKrcQOV9l+gRkayPQ5iz4=
 
 y18n@^4.0.0:
   version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/y18n/-/y18n-4.0.0.tgz"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w== sha1-le+U+F7MgdAHwmThkKEg8KPIVms=
+  resolved "https://registry.npmjs.org/y18n/-/y18n-4.0.0.tgz"
+  integrity "sha1-le+U+F7MgdAHwmThkKEg8KPIVms= sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w=="
 
 yargs-parser@^13.1.1:
   version "13.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/yargs-parser/-/yargs-parser-13.1.2.tgz"
-  integrity sha512-3lbsNRf/j+A4QuSZfDRA7HRSfWrzO0YjqTJd5kjAq37Zep1CEgaYmrH9Q3GwPiB9cHyd1Y1UwggGhJGoxipbzg== sha1-Ew8JcC667vJlDVTObj5XBvek+zg=
+  resolved "https://registry.npmjs.org/yargs-parser/-/yargs-parser-13.1.2.tgz"
+  integrity "sha1-Ew8JcC667vJlDVTObj5XBvek+zg= sha512-3lbsNRf/j+A4QuSZfDRA7HRSfWrzO0YjqTJd5kjAq37Zep1CEgaYmrH9Q3GwPiB9cHyd1Y1UwggGhJGoxipbzg=="
   dependencies:
     camelcase "^5.0.0"
     decamelize "^1.2.0"
 
 yargs-parser@^18.1.2:
   version "18.1.3"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/yargs-parser/-/yargs-parser-18.1.3.tgz"
-  integrity sha512-o50j0JeToy/4K6OZcaQmW6lyXXKhq7csREXcDwk2omFPJEwUNOVtJKvmDr9EI1fAJZUyZcRF7kxGBWmRXudrCQ== sha1-vmjEl1xrKr9GkjawyHA2L6sJp7A=
+  resolved "https://registry.npmjs.org/yargs-parser/-/yargs-parser-18.1.3.tgz"
+  integrity "sha1-vmjEl1xrKr9GkjawyHA2L6sJp7A= sha512-o50j0JeToy/4K6OZcaQmW6lyXXKhq7csREXcDwk2omFPJEwUNOVtJKvmDr9EI1fAJZUyZcRF7kxGBWmRXudrCQ=="
   dependencies:
     camelcase "^5.0.0"
     decamelize "^1.2.0"
 
+yargs@13.3.0:
+  version "13.3.0"
+  resolved "https://registry.npmjs.org/yargs/-/yargs-13.3.0.tgz"
+  integrity "sha1-TGV6VeB+Xyz5R/ijZlZ8BKDe3IM= sha512-2eehun/8ALW8TLoIl7MVaRUrg+yCnenu8B4kBlRxj3GJGDKU1Og7sMXPNm1BYyM1DOJmTZ4YeN/Nwxv+8XJsUA=="
+  dependencies:
+    cliui "^5.0.0"
+    find-up "^3.0.0"
+    get-caller-file "^2.0.1"
+    require-directory "^2.1.1"
+    require-main-filename "^2.0.0"
+    set-blocking "^2.0.0"
+    string-width "^3.0.0"
+    which-module "^2.0.0"
+    y18n "^4.0.0"
+    yargs-parser "^13.1.1"
+
 yargs@^15.4.1:
   version "15.4.1"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/yargs/-/yargs-15.4.1.tgz"
-  integrity sha512-aePbxDmcYW++PaqBsJ+HYUFwCdv4LVvdnhBy78E57PIor8/OVvhMrADFFEDh8DHDFRv/O9i3lPhsENjO7QX0+A== sha1-DYehbeAa7p2L7Cv7909nhRcw9Pg=
+  resolved "https://registry.npmjs.org/yargs/-/yargs-15.4.1.tgz"
+  integrity "sha1-DYehbeAa7p2L7Cv7909nhRcw9Pg= sha512-aePbxDmcYW++PaqBsJ+HYUFwCdv4LVvdnhBy78E57PIor8/OVvhMrADFFEDh8DHDFRv/O9i3lPhsENjO7QX0+A=="
   dependencies:
     cliui "^6.0.0"
     decamelize "^1.2.0"
@@ -1560,23 +1567,7 @@ yargs@^15.4.1:
     y18n "^4.0.0"
     yargs-parser "^18.1.2"
 
-yargs@13.3.0:
-  version "13.3.0"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/yargs/-/yargs-13.3.0.tgz"
-  integrity sha512-2eehun/8ALW8TLoIl7MVaRUrg+yCnenu8B4kBlRxj3GJGDKU1Og7sMXPNm1BYyM1DOJmTZ4YeN/Nwxv+8XJsUA== sha1-TGV6VeB+Xyz5R/ijZlZ8BKDe3IM=
-  dependencies:
-    cliui "^5.0.0"
-    find-up "^3.0.0"
-    get-caller-file "^2.0.1"
-    require-directory "^2.1.1"
-    require-main-filename "^2.0.0"
-    set-blocking "^2.0.0"
-    string-width "^3.0.0"
-    which-module "^2.0.0"
-    y18n "^4.0.0"
-    yargs-parser "^13.1.1"
-
 yeast@0.1.2:
   version "0.1.2"
-  resolved "https://pkgs.dev.azure.com/msazure/_packaging/power-platform-ux/npm/registry/yeast/-/yeast-0.1.2.tgz"
+  resolved "https://registry.npmjs.org/yeast/-/yeast-0.1.2.tgz"
   integrity sha1-AI4G2AlDIMNy28L47XagymyKxBk=
